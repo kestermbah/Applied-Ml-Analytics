@@ -1,0 +1,1801 @@
+OrderID,SupplierID,OrderDate,ProcurementManager,Department,Status,Priority
+500001,1005,2024-11-27,Morgan Patel,Operations,In Transit,Standard
+500002,1018,2024-03-15,Alex Chen,Retail,Open,Standard
+500003,1017,2024-02-29,Jordan Lee,Operations,Closed,Standard
+500004,1014,2025-03-20,Alex Chen,Operations,Closed,Standard
+500005,1014,2025-07-18,Alex Chen,Operations,In Transit,Standard
+500006,1021,2024-08-16,Casey Brown,Retail,Closed,Rush
+500007,1013,2025-08-22,Alex Chen,Operations,Closed,Standard
+500008,1005,2025-07-24,Taylor Smith,Finance,Open,Standard
+500009,1004,2025-07-07,Casey Brown,Retail,Open,Standard
+500010,1006,2025-11-29,Alex Chen,Retail,In Transit,Standard
+500011,1007,2025-10-16,Taylor Smith,Retail,Closed,Standard
+500012,1003,2025-12-30,Casey Brown,Retail,Closed,Rush
+500013,1016,2024-07-29,Casey Brown,IT,Open,Standard
+500014,1019,2025-04-21,Morgan Patel,IT,Open,Standard
+500015,1006,2024-09-11,Jordan Lee,Retail,Closed,Standard
+500016,1017,2024-11-03,Morgan Patel,Facilities,Open,Standard
+500017,1020,2024-10-21,Alex Chen,Retail,Closed,Standard
+500018,1006,2025-03-04,Taylor Smith,Facilities,Closed,Standard
+500019,1002,2025-03-07,Alex Chen,Retail,In Transit,Rush
+500020,1011,2024-11-17,Taylor Smith,Facilities,In Transit,Standard
+500021,1015,2025-08-16,Alex Chen,IT,Closed,Standard
+500022,1023,2025-04-30,Alex Chen,IT,Closed,Standard
+500023,1019,2025-10-24,Morgan Patel,Facilities,Open,Standard
+500024,1012,2025-11-15,Alex Chen,IT,Open,Standard
+500025,1020,2024-06-21,Alex Chen,Operations,Open,Standard
+500026,1025,2024-08-11,Taylor Smith,Finance,Closed,Standard
+500027,1013,2025-02-11,Morgan Patel,Finance,Closed,Standard
+500028,1013,2025-04-04,Casey Brown,Finance,Open,Standard
+500029,1018,2025-03-16,Taylor Smith,Facilities,In Transit,Standard
+500030,1022,2025-01-02,Morgan Patel,Finance,Closed,Standard
+500031,1006,2024-03-25,Jordan Lee,Finance,Closed,Standard
+500032,1016,2024-01-13,Casey Brown,IT,Closed,Standard
+500033,1001,2024-10-15,Jordan Lee,Retail,Open,Standard
+500034,1020,2025-01-13,Casey Brown,Finance,Open,Standard
+500035,1017,2025-12-08,Casey Brown,Operations,In Transit,Standard
+500036,1025,2025-04-12,Casey Brown,Facilities,Open,Standard
+500037,1013,2025-02-12,Alex Chen,Facilities,Open,Standard
+500038,1007,2024-03-04,Alex Chen,Facilities,Closed,Standard
+500039,1004,2024-06-15,Taylor Smith,Operations,In Transit,Standard
+500040,1001,2024-04-14,Casey Brown,Retail,Closed,Rush
+500041,1012,2024-04-13,Casey Brown,Operations,Closed,Standard
+500042,1020,2024-07-31,Morgan Patel,IT,Closed,Standard
+500043,1020,2024-12-21,Taylor Smith,Operations,Open,Rush
+500044,1016,2024-04-28,Morgan Patel,Facilities,Open,Rush
+500045,1003,2024-11-15,Jordan Lee,IT,Closed,Standard
+500046,1016,2024-09-28,Jordan Lee,Operations,In Transit,Standard
+500047,1017,2024-07-29,Taylor Smith,Retail,Closed,Standard
+500048,1025,2024-01-28,Casey Brown,Operations,Open,Rush
+500049,1009,2025-12-13,Casey Brown,Finance,Open,Standard
+500050,1025,2024-12-30,Jordan Lee,Retail,In Transit,Standard
+500051,1011,2025-05-29,Jordan Lee,Finance,In Transit,Standard
+500052,1013,2024-09-02,Jordan Lee,Retail,Closed,Standard
+500053,1012,2025-05-19,Alex Chen,IT,Closed,Standard
+500054,1009,2025-04-28,Jordan Lee,Retail,In Transit,Rush
+500055,1015,2024-12-18,Taylor Smith,Operations,Open,Standard
+500056,1004,2024-08-13,Jordan Lee,Finance,Open,Rush
+500057,1007,2024-12-11,Morgan Patel,Retail,In Transit,Standard
+500058,1016,2024-01-02,Taylor Smith,Operations,In Transit,Rush
+500059,1004,2025-11-07,Morgan Patel,Finance,In Transit,Standard
+500060,1006,2025-05-04,Morgan Patel,IT,In Transit,Standard
+500061,1024,2024-03-29,Morgan Patel,Facilities,Open,Standard
+500062,1024,2024-03-27,Jordan Lee,Finance,Closed,Standard
+500063,1005,2024-01-29,Casey Brown,Finance,Open,Standard
+500064,1020,2025-09-18,Morgan Patel,IT,In Transit,Standard
+500065,1018,2024-06-08,Casey Brown,Operations,Closed,Standard
+500066,1024,2024-01-15,Alex Chen,Finance,In Transit,Standard
+500067,1007,2025-03-20,Jordan Lee,IT,Closed,Rush
+500068,1010,2024-08-05,Casey Brown,Retail,Closed,Standard
+500069,1009,2024-11-29,Casey Brown,Finance,Open,Standard
+500070,1024,2024-03-03,Taylor Smith,Retail,Open,Standard
+500071,1014,2025-06-13,Casey Brown,Retail,Closed,Standard
+500072,1017,2024-06-04,Casey Brown,Facilities,Closed,Standard
+500073,1020,2024-07-06,Alex Chen,Finance,Closed,Standard
+500074,1016,2024-05-24,Casey Brown,Operations,In Transit,Standard
+500075,1002,2025-07-23,Taylor Smith,Retail,In Transit,Standard
+500076,1018,2025-06-27,Morgan Patel,Retail,Closed,Rush
+500077,1008,2024-02-28,Jordan Lee,Operations,Open,Rush
+500078,1017,2024-04-10,Morgan Patel,Operations,In Transit,Standard
+500079,1015,2024-03-05,Taylor Smith,Retail,In Transit,Standard
+500080,1017,2025-09-12,Jordan Lee,IT,In Transit,Standard
+500081,1017,2025-04-08,Casey Brown,Retail,Open,Standard
+500082,1023,2024-09-10,Casey Brown,Retail,Open,Standard
+500083,1015,2024-07-26,Jordan Lee,Operations,Open,Standard
+500084,1015,2025-02-05,Taylor Smith,Finance,Closed,Standard
+500085,1003,2025-03-14,Jordan Lee,IT,In Transit,Standard
+500086,1025,2024-05-05,Jordan Lee,IT,In Transit,Standard
+500087,1009,2024-05-26,Jordan Lee,Finance,Open,Standard
+500088,1013,2024-04-06,Morgan Patel,Finance,Closed,Standard
+500089,1023,2024-06-14,Morgan Patel,Facilities,In Transit,Standard
+500090,1014,2024-12-13,Jordan Lee,IT,Open,Standard
+500091,1024,2024-04-04,Taylor Smith,IT,Closed,Standard
+500092,1015,2025-07-21,Morgan Patel,Operations,In Transit,Standard
+500093,1011,2025-01-28,Casey Brown,IT,In Transit,Standard
+500094,1003,2025-06-08,Alex Chen,Operations,Closed,Standard
+500095,1009,2024-03-27,Taylor Smith,Finance,Closed,Rush
+500096,1025,2024-10-03,Jordan Lee,IT,Open,Rush
+500097,1005,2025-02-19,Casey Brown,Retail,In Transit,Standard
+500098,1023,2025-05-21,Taylor Smith,IT,Closed,Standard
+500099,1023,2024-02-28,Jordan Lee,Operations,Open,Standard
+500100,1001,2024-10-02,Alex Chen,Operations,Open,Standard
+500101,1008,2025-09-14,Alex Chen,Operations,Open,Rush
+500102,1001,2025-04-09,Taylor Smith,Facilities,In Transit,Standard
+500103,1020,2024-10-01,Jordan Lee,Retail,Closed,Rush
+500104,1008,2025-12-27,Alex Chen,IT,Closed,Rush
+500105,1006,2024-02-21,Jordan Lee,IT,Open,Standard
+500106,1025,2025-06-27,Jordan Lee,Facilities,Open,Standard
+500107,1022,2025-05-27,Jordan Lee,IT,Open,Standard
+500108,1009,2024-01-19,Alex Chen,Operations,Closed,Standard
+500109,1018,2025-06-01,Jordan Lee,Facilities,In Transit,Standard
+500110,1015,2024-09-08,Alex Chen,Facilities,In Transit,Standard
+500111,1016,2025-11-03,Casey Brown,Retail,Open,Standard
+500112,1023,2024-11-11,Jordan Lee,IT,Closed,Standard
+500113,1023,2024-07-22,Jordan Lee,IT,Open,Standard
+500114,1005,2024-02-25,Alex Chen,IT,Closed,Standard
+500115,1006,2025-03-17,Alex Chen,Facilities,Closed,Rush
+500116,1022,2025-06-02,Taylor Smith,Finance,In Transit,Standard
+500117,1010,2025-12-10,Alex Chen,Finance,Open,Standard
+500118,1009,2024-06-10,Morgan Patel,IT,Closed,Standard
+500119,1011,2025-01-07,Casey Brown,Finance,Open,Standard
+500120,1010,2024-02-05,Jordan Lee,Finance,Open,Standard
+500121,1011,2024-01-02,Morgan Patel,Facilities,Closed,Standard
+500122,1017,2024-10-12,Jordan Lee,Retail,Closed,Standard
+500123,1003,2024-01-06,Taylor Smith,Finance,Closed,Standard
+500124,1019,2025-02-13,Alex Chen,Operations,Open,Standard
+500125,1010,2024-11-02,Jordan Lee,Retail,Closed,Standard
+500126,1025,2025-06-25,Jordan Lee,Retail,In Transit,Standard
+500127,1025,2025-02-02,Taylor Smith,Facilities,In Transit,Standard
+500128,1010,2024-06-02,Casey Brown,Finance,In Transit,Standard
+500129,1023,2024-02-14,Casey Brown,Facilities,In Transit,Standard
+500130,1017,2025-12-18,Jordan Lee,Retail,In Transit,Standard
+500131,1001,2025-08-05,Casey Brown,Finance,In Transit,Standard
+500132,1001,2024-03-28,Alex Chen,IT,Closed,Standard
+500133,1013,2024-04-17,Morgan Patel,Operations,In Transit,Standard
+500134,1001,2025-10-04,Casey Brown,Finance,In Transit,Standard
+500135,1009,2025-05-16,Alex Chen,Operations,Open,Standard
+500136,1018,2025-05-30,Alex Chen,Retail,In Transit,Standard
+500137,1024,2024-03-08,Morgan Patel,Operations,Open,Standard
+500138,1008,2024-09-28,Jordan Lee,Facilities,Closed,Rush
+500139,1013,2025-05-20,Alex Chen,IT,Open,Standard
+500140,1020,2024-02-17,Jordan Lee,Retail,Closed,Standard
+500141,1011,2024-05-30,Taylor Smith,IT,In Transit,Standard
+500142,1019,2025-09-28,Jordan Lee,Facilities,Closed,Standard
+500143,1016,2024-03-03,Taylor Smith,Operations,In Transit,Standard
+500144,1007,2025-12-09,Morgan Patel,Retail,Open,Standard
+500145,1015,2024-10-19,Morgan Patel,Operations,Open,Standard
+500146,1007,2025-07-16,Taylor Smith,Facilities,Closed,Standard
+500147,1010,2024-01-18,Morgan Patel,Retail,Closed,Standard
+500148,1009,2025-04-05,Morgan Patel,Finance,Closed,Rush
+500149,1019,2024-03-17,Alex Chen,Retail,Closed,Standard
+500150,1012,2024-09-25,Jordan Lee,Retail,In Transit,Standard
+500151,1004,2024-10-13,Taylor Smith,Facilities,Closed,Standard
+500152,1013,2025-05-12,Alex Chen,Operations,Closed,Standard
+500153,1022,2025-05-18,Morgan Patel,IT,Open,Standard
+500154,1014,2024-05-24,Taylor Smith,IT,Open,Standard
+500155,1011,2024-05-03,Alex Chen,IT,Open,Standard
+500156,1004,2025-02-11,Jordan Lee,Operations,In Transit,Rush
+500157,1009,2024-10-23,Taylor Smith,Facilities,Closed,Standard
+500158,1019,2025-02-03,Alex Chen,Facilities,Open,Standard
+500159,1002,2024-10-08,Taylor Smith,Operations,Closed,Standard
+500160,1010,2025-11-08,Jordan Lee,IT,Closed,Standard
+500161,1017,2025-03-22,Taylor Smith,IT,Closed,Standard
+500162,1001,2025-03-14,Morgan Patel,Retail,In Transit,Standard
+500163,1024,2024-07-27,Alex Chen,Facilities,Closed,Standard
+500164,1020,2025-04-06,Jordan Lee,IT,In Transit,Standard
+500165,1002,2025-05-12,Casey Brown,Finance,Closed,Standard
+500166,1014,2025-04-28,Taylor Smith,IT,Open,Standard
+500167,1024,2024-09-18,Taylor Smith,Finance,Open,Standard
+500168,1016,2024-11-04,Casey Brown,Facilities,In Transit,Standard
+500169,1006,2024-05-02,Jordan Lee,Finance,Closed,Standard
+500170,1016,2025-05-27,Casey Brown,Facilities,Closed,Rush
+500171,1025,2024-12-06,Morgan Patel,Finance,Open,Standard
+500172,1007,2025-07-14,Jordan Lee,Finance,Closed,Standard
+500173,1018,2024-12-16,Alex Chen,Finance,Open,Standard
+500174,1009,2025-01-12,Casey Brown,Operations,Closed,Standard
+500175,1013,2025-02-26,Morgan Patel,Retail,In Transit,Standard
+500176,1013,2024-08-03,Taylor Smith,Operations,Open,Standard
+500177,1009,2025-05-25,Casey Brown,Finance,Open,Standard
+500178,1017,2025-12-04,Casey Brown,Finance,In Transit,Standard
+500179,1009,2024-04-04,Jordan Lee,Facilities,Open,Standard
+500180,1015,2025-10-23,Morgan Patel,Operations,Open,Standard
+500181,1002,2024-05-10,Morgan Patel,Facilities,In Transit,Standard
+500182,1016,2025-08-24,Alex Chen,Facilities,Closed,Standard
+500183,1015,2025-06-24,Morgan Patel,Operations,Closed,Rush
+500184,1005,2024-08-17,Jordan Lee,Operations,In Transit,Standard
+500185,1021,2025-12-18,Morgan Patel,Retail,Closed,Standard
+500186,1001,2024-02-10,Jordan Lee,Retail,Closed,Standard
+500187,1021,2024-02-08,Taylor Smith,IT,Closed,Rush
+500188,1021,2025-06-24,Morgan Patel,Operations,In Transit,Rush
+500189,1003,2024-04-11,Taylor Smith,Retail,In Transit,Standard
+500190,1013,2024-07-15,Taylor Smith,Retail,Closed,Rush
+500191,1001,2024-01-02,Casey Brown,Facilities,Open,Standard
+500192,1011,2024-10-12,Jordan Lee,Retail,Open,Standard
+500193,1018,2024-08-28,Jordan Lee,Facilities,Closed,Standard
+500194,1021,2025-12-22,Taylor Smith,Operations,Closed,Standard
+500195,1016,2024-07-17,Morgan Patel,IT,Closed,Standard
+500196,1022,2024-08-21,Morgan Patel,Finance,Open,Rush
+500197,1002,2025-05-19,Taylor Smith,Facilities,In Transit,Standard
+500198,1022,2025-01-06,Morgan Patel,Operations,Closed,Standard
+500199,1024,2024-10-26,Casey Brown,Finance,Closed,Rush
+500200,1007,2025-05-22,Taylor Smith,Finance,Closed,Rush
+500201,1008,2025-04-21,Taylor Smith,Operations,Open,Standard
+500202,1016,2025-09-30,Casey Brown,Finance,Closed,Standard
+500203,1014,2025-05-11,Alex Chen,Finance,In Transit,Standard
+500204,1002,2025-02-06,Jordan Lee,Retail,Closed,Standard
+500205,1014,2024-05-25,Alex Chen,Operations,In Transit,Rush
+500206,1013,2024-07-07,Morgan Patel,IT,In Transit,Rush
+500207,1003,2024-04-25,Jordan Lee,Finance,Open,Standard
+500208,1021,2024-07-08,Casey Brown,Facilities,In Transit,Rush
+500209,1010,2024-02-02,Morgan Patel,IT,Open,Standard
+500210,1006,2025-03-29,Alex Chen,Operations,Closed,Standard
+500211,1003,2024-10-13,Taylor Smith,Operations,Open,Standard
+500212,1025,2025-07-28,Jordan Lee,IT,Open,Standard
+500213,1014,2024-11-12,Alex Chen,Facilities,Closed,Standard
+500214,1012,2024-07-19,Casey Brown,Finance,Open,Rush
+500215,1012,2024-11-27,Morgan Patel,Facilities,Closed,Standard
+500216,1021,2024-09-10,Morgan Patel,Facilities,Closed,Rush
+500217,1015,2024-02-05,Alex Chen,IT,Closed,Standard
+500218,1024,2024-07-18,Alex Chen,IT,In Transit,Standard
+500219,1009,2025-01-06,Taylor Smith,Operations,In Transit,Rush
+500220,1024,2024-09-25,Taylor Smith,IT,Open,Standard
+500221,1024,2024-01-04,Casey Brown,Operations,In Transit,Standard
+500222,1008,2024-01-25,Alex Chen,Facilities,Open,Standard
+500223,1009,2025-01-30,Morgan Patel,Finance,Open,Rush
+500224,1006,2025-05-23,Alex Chen,IT,In Transit,Standard
+500225,1025,2025-12-09,Jordan Lee,Finance,In Transit,Standard
+500226,1011,2024-12-01,Morgan Patel,Retail,Open,Standard
+500227,1017,2024-03-21,Jordan Lee,Finance,Open,Standard
+500228,1014,2024-09-10,Alex Chen,Operations,In Transit,Standard
+500229,1018,2025-05-08,Casey Brown,Finance,Open,Standard
+500230,1004,2025-03-12,Alex Chen,Retail,Open,Standard
+500231,1007,2024-03-27,Alex Chen,Facilities,Open,Standard
+500232,1015,2025-12-27,Jordan Lee,Finance,Closed,Standard
+500233,1015,2025-03-02,Casey Brown,Finance,In Transit,Standard
+500234,1025,2025-07-05,Alex Chen,IT,Open,Standard
+500235,1019,2024-10-13,Taylor Smith,IT,Open,Standard
+500236,1007,2024-09-23,Morgan Patel,Finance,Closed,Standard
+500237,1008,2024-09-08,Jordan Lee,Retail,Open,Standard
+500238,1011,2024-07-11,Alex Chen,IT,Open,Standard
+500239,1017,2024-09-08,Casey Brown,Operations,Closed,Standard
+500240,1015,2025-10-31,Alex Chen,Operations,Closed,Standard
+500241,1008,2025-05-01,Morgan Patel,Operations,Open,Rush
+500242,1008,2024-10-27,Alex Chen,Finance,Closed,Standard
+500243,1019,2025-09-06,Jordan Lee,IT,Closed,Standard
+500244,1006,2025-06-08,Morgan Patel,IT,In Transit,Standard
+500245,1001,2025-11-11,Alex Chen,Retail,In Transit,Standard
+500246,1020,2025-12-27,Taylor Smith,Operations,Closed,Standard
+500247,1011,2025-01-12,Jordan Lee,Finance,Closed,Standard
+500248,1002,2024-09-18,Casey Brown,Finance,In Transit,Standard
+500249,1011,2024-01-12,Morgan Patel,IT,In Transit,Standard
+500250,1020,2024-07-08,Taylor Smith,Finance,Closed,Standard
+500251,1016,2024-02-02,Casey Brown,Operations,Open,Standard
+500252,1004,2025-02-21,Morgan Patel,Retail,In Transit,Standard
+500253,1021,2024-06-07,Casey Brown,Finance,Closed,Standard
+500254,1023,2025-02-11,Taylor Smith,IT,Open,Rush
+500255,1010,2025-11-14,Morgan Patel,IT,Closed,Standard
+500256,1012,2025-08-03,Morgan Patel,Operations,Open,Rush
+500257,1021,2025-01-07,Jordan Lee,Facilities,Open,Rush
+500258,1001,2024-07-27,Morgan Patel,Facilities,Closed,Standard
+500259,1003,2024-04-26,Morgan Patel,IT,In Transit,Standard
+500260,1025,2025-04-16,Jordan Lee,Operations,Closed,Rush
+500261,1018,2024-02-22,Jordan Lee,Facilities,In Transit,Standard
+500262,1019,2024-04-01,Casey Brown,Retail,Open,Standard
+500263,1005,2024-06-24,Taylor Smith,Finance,Open,Standard
+500264,1006,2025-06-17,Alex Chen,Facilities,Closed,Standard
+500265,1025,2025-05-17,Jordan Lee,Finance,Open,Rush
+500266,1016,2024-02-14,Taylor Smith,Retail,Closed,Standard
+500267,1013,2025-10-13,Alex Chen,Retail,In Transit,Standard
+500268,1006,2025-12-05,Jordan Lee,Facilities,In Transit,Standard
+500269,1007,2025-09-21,Morgan Patel,Retail,Closed,Standard
+500270,1002,2024-08-11,Morgan Patel,Finance,In Transit,Standard
+500271,1012,2025-01-27,Alex Chen,Finance,Closed,Rush
+500272,1002,2024-07-16,Casey Brown,Operations,In Transit,Standard
+500273,1011,2025-11-14,Alex Chen,Retail,Open,Standard
+500274,1018,2025-04-11,Taylor Smith,Facilities,In Transit,Standard
+500275,1019,2024-11-11,Jordan Lee,Facilities,Open,Rush
+500276,1012,2025-11-05,Morgan Patel,Facilities,In Transit,Standard
+500277,1001,2024-07-02,Alex Chen,Facilities,In Transit,Rush
+500278,1008,2025-04-21,Morgan Patel,Facilities,In Transit,Standard
+500279,1016,2024-07-02,Morgan Patel,Operations,Closed,Rush
+500280,1012,2024-05-11,Morgan Patel,Operations,Open,Standard
+500281,1017,2025-03-28,Casey Brown,Operations,In Transit,Standard
+500282,1021,2024-02-11,Jordan Lee,IT,Closed,Standard
+500283,1003,2025-06-07,Alex Chen,Facilities,In Transit,Standard
+500284,1005,2025-10-30,Alex Chen,Retail,Closed,Rush
+500285,1004,2025-12-10,Jordan Lee,Facilities,Closed,Standard
+500286,1006,2024-10-21,Jordan Lee,IT,Closed,Standard
+500287,1025,2025-09-17,Taylor Smith,IT,Closed,Standard
+500288,1009,2025-09-20,Morgan Patel,IT,Closed,Standard
+500289,1016,2025-05-29,Jordan Lee,IT,In Transit,Standard
+500290,1017,2025-09-22,Jordan Lee,IT,Open,Rush
+500291,1007,2024-02-07,Jordan Lee,Finance,Open,Standard
+500292,1009,2025-10-13,Taylor Smith,Finance,Open,Standard
+500293,1004,2024-09-27,Casey Brown,IT,Closed,Rush
+500294,1018,2025-04-08,Casey Brown,Operations,In Transit,Rush
+500295,1018,2024-09-15,Morgan Patel,IT,In Transit,Standard
+500296,1013,2024-09-28,Taylor Smith,Finance,In Transit,Rush
+500297,1011,2025-01-03,Alex Chen,Finance,Open,Rush
+500298,1020,2024-06-29,Alex Chen,Retail,Open,Standard
+500299,1010,2024-09-16,Casey Brown,IT,In Transit,Standard
+500300,1024,2024-01-02,Alex Chen,Finance,Closed,Standard
+500301,1020,2024-10-24,Morgan Patel,Retail,Open,Standard
+500302,1002,2025-01-07,Jordan Lee,Finance,Open,Standard
+500303,1021,2025-09-19,Alex Chen,Operations,Closed,Standard
+500304,1019,2024-01-03,Taylor Smith,Operations,Open,Standard
+500305,1012,2025-06-19,Casey Brown,Facilities,Closed,Standard
+500306,1010,2025-08-20,Casey Brown,Finance,Closed,Standard
+500307,1020,2025-01-10,Morgan Patel,Finance,Closed,Standard
+500308,1008,2024-01-15,Jordan Lee,Operations,Open,Standard
+500309,1021,2024-03-06,Jordan Lee,IT,In Transit,Standard
+500310,1009,2025-02-15,Alex Chen,Retail,Closed,Standard
+500311,1020,2024-12-24,Casey Brown,Retail,Open,Rush
+500312,1024,2025-06-14,Morgan Patel,Finance,Closed,Standard
+500313,1002,2024-01-01,Alex Chen,Operations,In Transit,Standard
+500314,1006,2025-02-19,Jordan Lee,Operations,Closed,Standard
+500315,1001,2024-04-17,Casey Brown,Finance,In Transit,Standard
+500316,1014,2024-05-25,Jordan Lee,Retail,In Transit,Standard
+500317,1017,2025-10-20,Morgan Patel,Finance,In Transit,Standard
+500318,1010,2025-06-04,Alex Chen,Operations,Open,Standard
+500319,1023,2025-05-04,Casey Brown,Facilities,Closed,Rush
+500320,1024,2025-03-23,Morgan Patel,Facilities,Closed,Standard
+500321,1008,2024-06-28,Alex Chen,Finance,Open,Rush
+500322,1002,2025-10-21,Alex Chen,IT,Open,Standard
+500323,1002,2025-12-29,Taylor Smith,Retail,In Transit,Standard
+500324,1014,2025-11-26,Casey Brown,IT,Open,Rush
+500325,1007,2025-10-19,Alex Chen,Operations,In Transit,Rush
+500326,1009,2024-06-22,Jordan Lee,Finance,In Transit,Rush
+500327,1024,2024-06-12,Taylor Smith,Facilities,Closed,Standard
+500328,1020,2024-12-02,Jordan Lee,Retail,Open,Standard
+500329,1016,2025-04-25,Casey Brown,Operations,In Transit,Standard
+500330,1014,2024-01-28,Jordan Lee,IT,In Transit,Rush
+500331,1013,2024-08-05,Casey Brown,Operations,In Transit,Rush
+500332,1006,2025-08-01,Jordan Lee,Operations,Closed,Rush
+500333,1004,2024-04-24,Casey Brown,IT,Closed,Standard
+500334,1023,2024-05-25,Alex Chen,Operations,Closed,Standard
+500335,1023,2024-05-21,Alex Chen,Operations,In Transit,Standard
+500336,1003,2024-02-17,Casey Brown,Finance,Open,Standard
+500337,1022,2025-06-30,Alex Chen,Facilities,In Transit,Rush
+500338,1008,2024-04-19,Jordan Lee,Operations,Closed,Standard
+500339,1002,2024-02-04,Alex Chen,IT,In Transit,Standard
+500340,1004,2025-05-03,Jordan Lee,Finance,Closed,Standard
+500341,1011,2024-10-28,Taylor Smith,IT,Open,Standard
+500342,1012,2024-01-22,Taylor Smith,Operations,Open,Standard
+500343,1011,2025-01-11,Casey Brown,Facilities,In Transit,Standard
+500344,1020,2024-10-21,Alex Chen,Operations,Open,Standard
+500345,1017,2025-03-22,Alex Chen,Facilities,Open,Standard
+500346,1002,2025-12-22,Casey Brown,Finance,In Transit,Standard
+500347,1019,2024-04-03,Taylor Smith,Facilities,Closed,Standard
+500348,1017,2024-01-02,Jordan Lee,Operations,Open,Rush
+500349,1012,2024-01-05,Morgan Patel,Facilities,Closed,Standard
+500350,1006,2025-12-12,Morgan Patel,IT,In Transit,Standard
+500351,1009,2025-06-11,Casey Brown,IT,Closed,Standard
+500352,1023,2024-08-07,Jordan Lee,Finance,Open,Standard
+500353,1021,2024-04-22,Alex Chen,Retail,Open,Standard
+500354,1021,2024-04-17,Taylor Smith,Operations,Open,Standard
+500355,1013,2025-02-14,Alex Chen,Operations,Open,Standard
+500356,1007,2025-01-15,Taylor Smith,Facilities,Open,Rush
+500357,1017,2025-07-12,Jordan Lee,Finance,Open,Standard
+500358,1005,2025-04-16,Casey Brown,Retail,In Transit,Standard
+500359,1002,2025-10-23,Taylor Smith,IT,In Transit,Rush
+500360,1005,2025-06-18,Morgan Patel,Retail,In Transit,Standard
+500361,1006,2024-11-27,Morgan Patel,IT,Open,Rush
+500362,1008,2025-08-16,Jordan Lee,Facilities,Open,Standard
+500363,1023,2025-10-20,Jordan Lee,Finance,In Transit,Rush
+500364,1010,2024-09-30,Casey Brown,Finance,Closed,Standard
+500365,1024,2024-09-10,Taylor Smith,Retail,In Transit,Standard
+500366,1006,2024-12-22,Jordan Lee,Finance,Open,Rush
+500367,1024,2024-09-21,Alex Chen,Operations,Closed,Standard
+500368,1013,2024-07-19,Jordan Lee,IT,Closed,Standard
+500369,1014,2024-10-31,Taylor Smith,Operations,Closed,Standard
+500370,1004,2025-10-15,Taylor Smith,Facilities,Closed,Rush
+500371,1002,2025-04-20,Alex Chen,Facilities,Open,Rush
+500372,1008,2025-12-11,Casey Brown,IT,In Transit,Standard
+500373,1001,2025-04-19,Jordan Lee,Retail,Open,Standard
+500374,1001,2025-02-18,Jordan Lee,Retail,Open,Standard
+500375,1024,2025-08-24,Morgan Patel,Retail,Closed,Standard
+500376,1022,2024-08-22,Jordan Lee,Operations,In Transit,Standard
+500377,1014,2025-04-09,Taylor Smith,Operations,Open,Standard
+500378,1008,2025-03-05,Morgan Patel,Finance,In Transit,Standard
+500379,1014,2024-09-13,Morgan Patel,Operations,Open,Standard
+500380,1014,2025-09-28,Casey Brown,Finance,In Transit,Standard
+500381,1011,2025-11-01,Alex Chen,Facilities,Open,Standard
+500382,1002,2024-04-18,Taylor Smith,Finance,In Transit,Standard
+500383,1023,2024-06-13,Jordan Lee,IT,In Transit,Standard
+500384,1019,2024-04-13,Morgan Patel,Finance,In Transit,Rush
+500385,1017,2025-05-02,Alex Chen,IT,In Transit,Standard
+500386,1011,2025-06-18,Morgan Patel,Facilities,In Transit,Standard
+500387,1022,2024-08-03,Jordan Lee,Retail,Open,Standard
+500388,1024,2024-05-05,Casey Brown,Operations,Open,Standard
+500389,1009,2024-09-15,Morgan Patel,Operations,Open,Standard
+500390,1003,2024-01-14,Morgan Patel,IT,Open,Standard
+500391,1009,2025-08-17,Alex Chen,IT,Closed,Rush
+500392,1017,2025-02-14,Jordan Lee,Facilities,Open,Standard
+500393,1006,2024-08-05,Jordan Lee,Finance,Closed,Standard
+500394,1021,2025-04-25,Casey Brown,Finance,In Transit,Standard
+500395,1012,2024-05-29,Morgan Patel,IT,Open,Standard
+500396,1021,2025-07-15,Jordan Lee,IT,Open,Standard
+500397,1009,2024-08-23,Morgan Patel,IT,In Transit,Rush
+500398,1022,2025-03-12,Jordan Lee,Operations,Open,Standard
+500399,1012,2024-10-14,Jordan Lee,IT,In Transit,Standard
+500400,1016,2024-11-24,Morgan Patel,Retail,Open,Standard
+500401,1003,2025-10-14,Taylor Smith,IT,Closed,Rush
+500402,1002,2025-01-29,Alex Chen,IT,In Transit,Standard
+500403,1017,2024-05-23,Taylor Smith,Retail,In Transit,Standard
+500404,1022,2024-01-16,Alex Chen,Operations,Closed,Rush
+500405,1010,2025-11-02,Taylor Smith,Operations,In Transit,Standard
+500406,1005,2025-08-15,Jordan Lee,Facilities,Closed,Standard
+500407,1005,2024-12-20,Jordan Lee,Retail,Open,Standard
+500408,1020,2024-06-20,Casey Brown,Retail,Closed,Rush
+500409,1010,2025-10-13,Jordan Lee,Finance,Open,Rush
+500410,1003,2025-06-27,Morgan Patel,Operations,In Transit,Standard
+500411,1004,2025-07-22,Taylor Smith,Finance,Open,Standard
+500412,1016,2024-05-22,Morgan Patel,Operations,In Transit,Standard
+500413,1015,2025-05-10,Jordan Lee,Facilities,In Transit,Standard
+500414,1016,2024-09-09,Jordan Lee,Retail,In Transit,Rush
+500415,1006,2024-01-07,Taylor Smith,Retail,Open,Standard
+500416,1022,2025-05-24,Taylor Smith,IT,Open,Standard
+500417,1014,2025-03-12,Alex Chen,IT,Closed,Standard
+500418,1021,2025-10-13,Alex Chen,Retail,Closed,Standard
+500419,1022,2024-02-16,Taylor Smith,Retail,Closed,Standard
+500420,1016,2025-05-10,Jordan Lee,Finance,Closed,Standard
+500421,1021,2025-03-01,Jordan Lee,Operations,Open,Standard
+500422,1012,2025-11-05,Taylor Smith,Retail,Open,Standard
+500423,1025,2025-07-21,Jordan Lee,Facilities,Open,Standard
+500424,1014,2024-12-16,Taylor Smith,Operations,In Transit,Standard
+500425,1010,2024-10-23,Taylor Smith,Facilities,Open,Standard
+500426,1017,2024-12-07,Taylor Smith,IT,In Transit,Standard
+500427,1021,2024-07-27,Morgan Patel,IT,Closed,Standard
+500428,1011,2024-07-15,Taylor Smith,Retail,Closed,Standard
+500429,1003,2025-10-12,Alex Chen,Retail,Open,Standard
+500430,1018,2025-02-19,Casey Brown,Facilities,Closed,Standard
+500431,1004,2024-11-03,Alex Chen,Finance,Closed,Standard
+500432,1020,2025-05-01,Alex Chen,Retail,In Transit,Standard
+500433,1013,2025-09-18,Casey Brown,Retail,Closed,Standard
+500434,1003,2025-11-28,Jordan Lee,Facilities,Closed,Standard
+500435,1025,2025-10-02,Jordan Lee,Finance,Closed,Standard
+500436,1014,2024-02-07,Alex Chen,Operations,In Transit,Standard
+500437,1005,2025-01-12,Taylor Smith,IT,In Transit,Standard
+500438,1006,2024-11-05,Morgan Patel,IT,Closed,Standard
+500439,1014,2024-01-21,Casey Brown,Retail,In Transit,Standard
+500440,1016,2024-02-25,Casey Brown,Operations,In Transit,Rush
+500441,1025,2024-05-01,Morgan Patel,Facilities,In Transit,Standard
+500442,1003,2025-04-02,Alex Chen,Facilities,In Transit,Standard
+500443,1019,2025-08-31,Jordan Lee,Facilities,Open,Rush
+500444,1004,2025-07-15,Alex Chen,Facilities,In Transit,Standard
+500445,1005,2024-08-05,Alex Chen,Operations,Open,Standard
+500446,1022,2024-01-10,Alex Chen,Finance,Closed,Standard
+500447,1005,2024-05-04,Morgan Patel,IT,Closed,Standard
+500448,1008,2025-08-05,Morgan Patel,Finance,In Transit,Standard
+500449,1012,2024-02-21,Jordan Lee,Operations,In Transit,Rush
+500450,1021,2024-10-27,Casey Brown,Facilities,In Transit,Standard
+500451,1022,2025-04-16,Taylor Smith,Operations,Closed,Standard
+500452,1002,2024-01-12,Alex Chen,Retail,In Transit,Rush
+500453,1013,2024-03-22,Taylor Smith,Retail,Open,Standard
+500454,1016,2024-06-18,Casey Brown,IT,Closed,Standard
+500455,1019,2025-01-11,Morgan Patel,Finance,Open,Rush
+500456,1004,2024-05-28,Taylor Smith,Finance,In Transit,Standard
+500457,1014,2025-10-06,Morgan Patel,Facilities,Open,Rush
+500458,1025,2024-10-05,Casey Brown,IT,Open,Standard
+500459,1002,2024-10-13,Casey Brown,Retail,In Transit,Standard
+500460,1020,2024-12-06,Alex Chen,Retail,Closed,Rush
+500461,1019,2024-11-12,Morgan Patel,Facilities,Closed,Standard
+500462,1022,2025-01-31,Morgan Patel,Finance,In Transit,Standard
+500463,1010,2025-04-07,Alex Chen,IT,Open,Standard
+500464,1014,2024-10-01,Jordan Lee,Operations,In Transit,Rush
+500465,1005,2024-10-22,Casey Brown,IT,Closed,Standard
+500466,1022,2025-07-14,Morgan Patel,Retail,Open,Standard
+500467,1018,2024-03-28,Casey Brown,Facilities,Open,Standard
+500468,1025,2024-07-24,Jordan Lee,Retail,Open,Standard
+500469,1022,2024-02-28,Morgan Patel,Finance,Open,Standard
+500470,1019,2024-09-17,Alex Chen,Facilities,Open,Standard
+500471,1003,2025-07-07,Casey Brown,Operations,Open,Standard
+500472,1013,2024-08-26,Casey Brown,IT,In Transit,Standard
+500473,1011,2025-06-18,Morgan Patel,Retail,In Transit,Standard
+500474,1007,2024-07-25,Jordan Lee,Operations,Closed,Standard
+500475,1023,2024-07-04,Taylor Smith,Retail,Open,Standard
+500476,1012,2025-07-31,Morgan Patel,Finance,In Transit,Rush
+500477,1002,2024-09-09,Morgan Patel,Operations,Open,Standard
+500478,1021,2025-01-15,Morgan Patel,Finance,Closed,Standard
+500479,1020,2024-11-19,Alex Chen,IT,Open,Rush
+500480,1020,2025-06-15,Alex Chen,Operations,Closed,Standard
+500481,1019,2024-07-28,Morgan Patel,Retail,In Transit,Standard
+500482,1009,2024-08-06,Taylor Smith,Operations,Open,Standard
+500483,1025,2025-04-02,Casey Brown,Finance,In Transit,Standard
+500484,1002,2024-09-17,Taylor Smith,Finance,Closed,Rush
+500485,1003,2025-01-22,Alex Chen,Operations,Closed,Standard
+500486,1012,2025-07-24,Morgan Patel,Operations,Open,Standard
+500487,1021,2025-09-04,Morgan Patel,Operations,Closed,Standard
+500488,1011,2024-09-20,Casey Brown,Operations,Closed,Standard
+500489,1017,2025-11-16,Morgan Patel,Facilities,Closed,Standard
+500490,1012,2024-06-12,Jordan Lee,Finance,In Transit,Standard
+500491,1002,2024-06-25,Taylor Smith,Operations,Open,Standard
+500492,1001,2025-07-20,Alex Chen,Retail,Open,Standard
+500493,1024,2025-12-27,Morgan Patel,Operations,Closed,Rush
+500494,1011,2024-05-28,Alex Chen,IT,Closed,Rush
+500495,1019,2025-08-26,Morgan Patel,Operations,In Transit,Standard
+500496,1011,2025-04-27,Taylor Smith,Facilities,Open,Standard
+500497,1012,2024-05-07,Morgan Patel,Finance,Open,Standard
+500498,1008,2025-03-27,Jordan Lee,Operations,In Transit,Standard
+500499,1023,2025-04-24,Jordan Lee,Finance,Closed,Standard
+500500,1003,2024-08-13,Casey Brown,Finance,Open,Standard
+500501,1004,2025-04-02,Morgan Patel,Operations,Closed,Standard
+500502,1011,2025-04-08,Taylor Smith,Facilities,Closed,Standard
+500503,1021,2024-04-28,Taylor Smith,IT,Closed,Standard
+500504,1024,2024-08-14,Alex Chen,Facilities,Closed,Standard
+500505,1005,2025-07-20,Morgan Patel,IT,Closed,Standard
+500506,1014,2025-03-04,Jordan Lee,Operations,Closed,Standard
+500507,1019,2024-10-04,Taylor Smith,Finance,Open,Standard
+500508,1016,2024-09-23,Alex Chen,Facilities,Open,Standard
+500509,1004,2025-05-09,Jordan Lee,Operations,In Transit,Rush
+500510,1022,2025-10-08,Jordan Lee,Facilities,In Transit,Standard
+500511,1004,2024-10-20,Taylor Smith,IT,Closed,Standard
+500512,1009,2025-03-18,Jordan Lee,Operations,Closed,Standard
+500513,1010,2025-02-03,Morgan Patel,Operations,Closed,Standard
+500514,1005,2024-10-27,Alex Chen,Retail,Open,Standard
+500515,1017,2024-12-15,Jordan Lee,Operations,Open,Rush
+500516,1010,2025-06-23,Jordan Lee,Facilities,Open,Standard
+500517,1014,2024-02-11,Jordan Lee,Retail,Open,Rush
+500518,1005,2024-07-04,Jordan Lee,Finance,In Transit,Rush
+500519,1006,2025-12-29,Jordan Lee,Operations,In Transit,Standard
+500520,1020,2024-03-30,Morgan Patel,Finance,Open,Standard
+500521,1005,2024-07-29,Casey Brown,Finance,In Transit,Standard
+500522,1010,2025-08-19,Jordan Lee,Operations,Closed,Standard
+500523,1024,2025-12-09,Casey Brown,Operations,Open,Standard
+500524,1012,2025-06-14,Taylor Smith,Facilities,Open,Rush
+500525,1001,2024-04-02,Morgan Patel,Finance,Open,Standard
+500526,1009,2025-11-12,Jordan Lee,Retail,Closed,Standard
+500527,1002,2025-01-10,Jordan Lee,IT,In Transit,Standard
+500528,1020,2025-08-11,Alex Chen,Retail,Open,Standard
+500529,1017,2025-04-01,Alex Chen,IT,Closed,Standard
+500530,1011,2024-09-07,Morgan Patel,Operations,In Transit,Standard
+500531,1004,2024-10-25,Morgan Patel,Retail,Open,Standard
+500532,1017,2024-01-27,Casey Brown,Operations,Closed,Standard
+500533,1003,2024-09-06,Jordan Lee,Finance,In Transit,Standard
+500534,1004,2024-06-20,Taylor Smith,Retail,Open,Standard
+500535,1001,2024-01-31,Alex Chen,Finance,In Transit,Standard
+500536,1001,2024-09-24,Casey Brown,Retail,In Transit,Standard
+500537,1017,2025-04-20,Jordan Lee,Facilities,In Transit,Rush
+500538,1012,2024-04-15,Alex Chen,Finance,In Transit,Rush
+500539,1009,2024-02-16,Alex Chen,Facilities,Open,Standard
+500540,1017,2025-08-22,Taylor Smith,Operations,Closed,Standard
+500541,1013,2024-05-04,Jordan Lee,Retail,In Transit,Standard
+500542,1008,2024-08-20,Jordan Lee,Retail,In Transit,Standard
+500543,1024,2025-04-18,Morgan Patel,Operations,Closed,Standard
+500544,1013,2025-10-12,Morgan Patel,Retail,In Transit,Standard
+500545,1002,2025-06-22,Morgan Patel,IT,Closed,Rush
+500546,1013,2024-12-12,Jordan Lee,Facilities,Open,Standard
+500547,1011,2025-07-31,Morgan Patel,Operations,In Transit,Standard
+500548,1017,2024-11-28,Jordan Lee,IT,In Transit,Standard
+500549,1014,2024-09-12,Alex Chen,Operations,Open,Standard
+500550,1006,2025-06-27,Alex Chen,Facilities,Open,Rush
+500551,1017,2024-07-24,Alex Chen,Finance,Closed,Standard
+500552,1013,2025-03-06,Morgan Patel,Operations,In Transit,Standard
+500553,1002,2024-02-11,Casey Brown,Retail,Open,Standard
+500554,1021,2024-10-06,Casey Brown,Retail,Closed,Standard
+500555,1009,2024-04-12,Alex Chen,Operations,In Transit,Standard
+500556,1008,2025-03-20,Alex Chen,Operations,Open,Standard
+500557,1012,2024-11-08,Jordan Lee,Operations,Closed,Standard
+500558,1017,2025-08-31,Taylor Smith,Facilities,Closed,Standard
+500559,1018,2025-08-27,Jordan Lee,Operations,Open,Standard
+500560,1005,2025-06-07,Taylor Smith,Retail,Open,Rush
+500561,1009,2024-10-22,Jordan Lee,Operations,In Transit,Standard
+500562,1010,2025-07-13,Morgan Patel,Retail,In Transit,Standard
+500563,1021,2024-08-14,Morgan Patel,Retail,Closed,Standard
+500564,1012,2025-12-28,Morgan Patel,IT,In Transit,Standard
+500565,1016,2025-09-19,Morgan Patel,Operations,Open,Standard
+500566,1011,2024-09-05,Jordan Lee,Retail,Closed,Standard
+500567,1013,2025-07-13,Casey Brown,Operations,Open,Standard
+500568,1006,2024-12-27,Jordan Lee,Retail,Open,Standard
+500569,1016,2024-11-29,Taylor Smith,Finance,Open,Standard
+500570,1002,2024-10-29,Alex Chen,Retail,Closed,Standard
+500571,1020,2024-03-09,Taylor Smith,Operations,Open,Standard
+500572,1013,2025-06-13,Morgan Patel,Operations,Open,Standard
+500573,1008,2025-06-17,Jordan Lee,IT,Open,Standard
+500574,1012,2025-11-15,Jordan Lee,Finance,In Transit,Standard
+500575,1020,2025-09-23,Taylor Smith,Operations,In Transit,Standard
+500576,1009,2025-05-01,Jordan Lee,Operations,Open,Standard
+500577,1014,2024-01-05,Casey Brown,Operations,In Transit,Standard
+500578,1013,2025-05-24,Casey Brown,Facilities,Closed,Standard
+500579,1020,2024-10-13,Casey Brown,Facilities,Closed,Rush
+500580,1023,2025-04-08,Morgan Patel,IT,Open,Rush
+500581,1012,2024-10-26,Morgan Patel,Retail,In Transit,Standard
+500582,1013,2025-09-01,Taylor Smith,Facilities,Closed,Standard
+500583,1015,2025-01-24,Taylor Smith,Retail,Closed,Standard
+500584,1005,2024-11-07,Morgan Patel,Facilities,In Transit,Standard
+500585,1008,2025-08-18,Alex Chen,IT,Open,Standard
+500586,1008,2025-09-14,Taylor Smith,Facilities,Closed,Standard
+500587,1001,2024-01-11,Alex Chen,Retail,Open,Standard
+500588,1010,2025-05-24,Casey Brown,Retail,Open,Standard
+500589,1014,2025-09-26,Casey Brown,Facilities,In Transit,Standard
+500590,1015,2025-02-02,Taylor Smith,Retail,Closed,Rush
+500591,1012,2025-11-23,Morgan Patel,Operations,Closed,Rush
+500592,1008,2025-06-21,Alex Chen,IT,Open,Rush
+500593,1013,2025-05-27,Casey Brown,Finance,In Transit,Standard
+500594,1014,2024-07-11,Morgan Patel,Facilities,Open,Standard
+500595,1019,2025-10-01,Taylor Smith,Retail,In Transit,Standard
+500596,1006,2024-04-04,Taylor Smith,IT,Open,Standard
+500597,1010,2024-03-17,Casey Brown,Operations,Closed,Standard
+500598,1010,2025-11-02,Taylor Smith,Facilities,In Transit,Standard
+500599,1006,2025-10-08,Casey Brown,Retail,Open,Standard
+500600,1017,2024-07-31,Jordan Lee,Finance,Open,Standard
+500601,1021,2024-03-02,Casey Brown,Operations,In Transit,Rush
+500602,1019,2024-12-27,Alex Chen,Facilities,In Transit,Standard
+500603,1001,2024-01-11,Taylor Smith,Retail,In Transit,Standard
+500604,1010,2024-01-05,Morgan Patel,Retail,Closed,Standard
+500605,1022,2024-01-16,Alex Chen,Finance,Closed,Standard
+500606,1025,2025-05-24,Casey Brown,IT,In Transit,Standard
+500607,1018,2025-10-24,Casey Brown,Retail,Closed,Standard
+500608,1014,2024-07-22,Casey Brown,Finance,Closed,Standard
+500609,1017,2024-06-09,Casey Brown,Operations,Closed,Rush
+500610,1003,2024-04-12,Jordan Lee,Facilities,In Transit,Rush
+500611,1020,2025-04-23,Morgan Patel,Operations,Closed,Standard
+500612,1025,2025-12-01,Casey Brown,Finance,Open,Standard
+500613,1012,2024-08-31,Taylor Smith,Operations,Closed,Standard
+500614,1021,2024-09-30,Alex Chen,Operations,In Transit,Standard
+500615,1007,2024-12-23,Morgan Patel,Facilities,In Transit,Standard
+500616,1002,2024-01-21,Jordan Lee,Retail,Open,Standard
+500617,1015,2024-02-14,Alex Chen,Finance,In Transit,Standard
+500618,1008,2024-09-12,Alex Chen,Retail,Closed,Standard
+500619,1011,2024-06-26,Alex Chen,IT,Open,Standard
+500620,1020,2025-03-04,Taylor Smith,Operations,Open,Standard
+500621,1022,2024-09-05,Morgan Patel,Retail,In Transit,Rush
+500622,1014,2024-08-14,Taylor Smith,Facilities,Open,Rush
+500623,1008,2024-01-23,Alex Chen,Finance,Closed,Standard
+500624,1013,2025-01-01,Jordan Lee,IT,Closed,Standard
+500625,1018,2025-02-09,Taylor Smith,IT,Closed,Standard
+500626,1013,2025-06-30,Taylor Smith,Operations,Open,Standard
+500627,1014,2024-05-06,Taylor Smith,Finance,In Transit,Standard
+500628,1007,2025-01-31,Morgan Patel,IT,Open,Rush
+500629,1014,2024-08-30,Alex Chen,Operations,Open,Standard
+500630,1005,2024-12-15,Jordan Lee,Finance,In Transit,Standard
+500631,1007,2024-04-04,Taylor Smith,Finance,In Transit,Standard
+500632,1015,2025-07-22,Morgan Patel,Finance,Closed,Rush
+500633,1012,2025-01-11,Jordan Lee,Facilities,In Transit,Standard
+500634,1021,2025-01-20,Casey Brown,IT,Closed,Standard
+500635,1017,2025-05-02,Jordan Lee,Facilities,Closed,Standard
+500636,1005,2025-11-22,Taylor Smith,Facilities,In Transit,Standard
+500637,1012,2025-08-24,Casey Brown,Facilities,Closed,Standard
+500638,1017,2025-09-14,Jordan Lee,Operations,Closed,Standard
+500639,1017,2025-11-25,Alex Chen,IT,In Transit,Standard
+500640,1001,2025-01-29,Casey Brown,IT,Closed,Standard
+500641,1013,2024-01-16,Alex Chen,Finance,In Transit,Standard
+500642,1011,2024-08-25,Jordan Lee,Operations,In Transit,Standard
+500643,1018,2024-03-10,Taylor Smith,IT,In Transit,Standard
+500644,1003,2024-07-16,Taylor Smith,Finance,Closed,Rush
+500645,1005,2024-10-22,Morgan Patel,IT,Open,Standard
+500646,1015,2025-02-17,Jordan Lee,Finance,Open,Standard
+500647,1012,2024-01-31,Taylor Smith,Operations,Open,Standard
+500648,1023,2025-11-05,Morgan Patel,Facilities,Closed,Standard
+500649,1021,2024-12-26,Alex Chen,IT,Closed,Standard
+500650,1009,2024-04-27,Casey Brown,Finance,In Transit,Rush
+500651,1022,2025-12-30,Alex Chen,Operations,Open,Standard
+500652,1006,2025-09-15,Morgan Patel,IT,Closed,Standard
+500653,1013,2024-06-08,Alex Chen,IT,In Transit,Standard
+500654,1021,2025-10-06,Jordan Lee,Finance,In Transit,Standard
+500655,1016,2025-08-06,Casey Brown,Facilities,Open,Standard
+500656,1022,2025-11-17,Casey Brown,Operations,Open,Standard
+500657,1025,2024-04-24,Taylor Smith,Retail,Closed,Rush
+500658,1023,2025-09-13,Alex Chen,Operations,Closed,Standard
+500659,1011,2024-02-08,Jordan Lee,Operations,Open,Standard
+500660,1023,2025-03-03,Morgan Patel,Retail,In Transit,Standard
+500661,1009,2024-08-14,Casey Brown,IT,Closed,Standard
+500662,1015,2025-03-10,Taylor Smith,Retail,In Transit,Standard
+500663,1021,2025-12-05,Morgan Patel,Operations,In Transit,Standard
+500664,1023,2025-11-23,Jordan Lee,Retail,Open,Standard
+500665,1016,2024-05-10,Jordan Lee,Retail,Closed,Standard
+500666,1006,2024-09-24,Casey Brown,Finance,Closed,Rush
+500667,1009,2025-07-10,Jordan Lee,Finance,Closed,Rush
+500668,1012,2025-01-01,Morgan Patel,Finance,Closed,Standard
+500669,1010,2025-10-13,Jordan Lee,Facilities,Closed,Standard
+500670,1016,2025-11-17,Jordan Lee,Finance,In Transit,Standard
+500671,1017,2024-01-07,Morgan Patel,IT,Closed,Standard
+500672,1010,2025-12-15,Jordan Lee,Finance,In Transit,Standard
+500673,1019,2025-08-24,Jordan Lee,Operations,Open,Rush
+500674,1014,2025-07-15,Jordan Lee,Finance,In Transit,Standard
+500675,1015,2025-09-05,Morgan Patel,Operations,Closed,Standard
+500676,1010,2025-12-07,Alex Chen,Facilities,Open,Standard
+500677,1002,2024-07-30,Alex Chen,IT,Open,Standard
+500678,1004,2024-07-20,Taylor Smith,Operations,Open,Standard
+500679,1011,2024-06-14,Morgan Patel,Retail,Open,Standard
+500680,1010,2025-01-06,Jordan Lee,Operations,In Transit,Standard
+500681,1001,2024-02-16,Morgan Patel,Operations,Open,Rush
+500682,1024,2024-12-05,Casey Brown,Operations,Open,Standard
+500683,1016,2025-10-22,Morgan Patel,Finance,Open,Standard
+500684,1011,2025-07-10,Alex Chen,Operations,Open,Standard
+500685,1010,2025-10-21,Casey Brown,IT,In Transit,Standard
+500686,1008,2025-10-30,Alex Chen,Operations,Closed,Standard
+500687,1025,2024-01-26,Morgan Patel,IT,Closed,Standard
+500688,1006,2025-01-11,Casey Brown,Finance,In Transit,Standard
+500689,1024,2024-04-14,Taylor Smith,Retail,In Transit,Standard
+500690,1013,2024-11-30,Jordan Lee,IT,In Transit,Standard
+500691,1008,2024-11-23,Taylor Smith,Retail,Closed,Standard
+500692,1009,2025-01-13,Jordan Lee,Operations,Closed,Standard
+500693,1019,2024-04-19,Morgan Patel,Finance,Closed,Standard
+500694,1014,2025-05-21,Morgan Patel,Finance,In Transit,Standard
+500695,1020,2024-11-02,Casey Brown,Operations,In Transit,Standard
+500696,1023,2024-05-25,Jordan Lee,Finance,Closed,Standard
+500697,1021,2025-03-29,Morgan Patel,Operations,Closed,Standard
+500698,1016,2025-03-26,Jordan Lee,IT,Closed,Standard
+500699,1002,2024-01-03,Casey Brown,Facilities,In Transit,Standard
+500700,1010,2024-05-26,Alex Chen,Operations,In Transit,Standard
+500701,1023,2025-06-10,Morgan Patel,Operations,Open,Standard
+500702,1001,2025-03-25,Jordan Lee,Finance,In Transit,Standard
+500703,1010,2025-01-22,Alex Chen,Retail,Open,Standard
+500704,1012,2025-11-22,Casey Brown,Facilities,Closed,Standard
+500705,1018,2024-03-28,Taylor Smith,Facilities,In Transit,Standard
+500706,1018,2025-03-14,Jordan Lee,Retail,Open,Standard
+500707,1003,2025-09-26,Alex Chen,IT,In Transit,Standard
+500708,1022,2025-09-15,Taylor Smith,Retail,In Transit,Standard
+500709,1012,2025-03-07,Morgan Patel,Finance,In Transit,Rush
+500710,1011,2024-11-02,Casey Brown,Operations,In Transit,Standard
+500711,1008,2024-07-12,Morgan Patel,Operations,In Transit,Standard
+500712,1022,2024-05-30,Casey Brown,Retail,Open,Standard
+500713,1014,2025-08-17,Taylor Smith,Finance,In Transit,Standard
+500714,1015,2025-08-01,Morgan Patel,Operations,Open,Standard
+500715,1006,2024-08-20,Jordan Lee,Operations,In Transit,Standard
+500716,1009,2024-08-14,Alex Chen,Retail,Closed,Standard
+500717,1009,2025-11-17,Morgan Patel,Retail,Closed,Standard
+500718,1008,2025-04-14,Casey Brown,Operations,In Transit,Standard
+500719,1019,2025-06-09,Casey Brown,Facilities,Closed,Rush
+500720,1003,2025-11-26,Morgan Patel,Retail,Closed,Standard
+500721,1017,2025-07-17,Alex Chen,Retail,In Transit,Standard
+500722,1015,2024-04-14,Morgan Patel,Finance,In Transit,Standard
+500723,1019,2024-07-15,Morgan Patel,Finance,Closed,Standard
+500724,1025,2025-01-17,Casey Brown,Facilities,Closed,Standard
+500725,1002,2024-08-30,Taylor Smith,Operations,Closed,Standard
+500726,1020,2025-12-19,Jordan Lee,IT,Open,Standard
+500727,1023,2024-05-03,Jordan Lee,Operations,Open,Rush
+500728,1007,2025-09-28,Casey Brown,IT,Closed,Standard
+500729,1012,2024-06-21,Taylor Smith,Operations,In Transit,Standard
+500730,1004,2024-09-18,Jordan Lee,Retail,Open,Standard
+500731,1012,2025-06-21,Morgan Patel,Retail,Closed,Standard
+500732,1004,2024-12-27,Taylor Smith,IT,In Transit,Standard
+500733,1004,2025-09-09,Alex Chen,Finance,In Transit,Standard
+500734,1012,2024-09-17,Jordan Lee,Facilities,In Transit,Rush
+500735,1019,2024-01-22,Morgan Patel,Operations,Closed,Standard
+500736,1004,2025-05-14,Alex Chen,Finance,Open,Standard
+500737,1018,2024-06-02,Taylor Smith,Facilities,In Transit,Rush
+500738,1019,2024-05-27,Taylor Smith,IT,In Transit,Standard
+500739,1001,2025-03-30,Alex Chen,Finance,Open,Standard
+500740,1017,2025-05-13,Morgan Patel,Operations,Closed,Standard
+500741,1006,2024-03-17,Casey Brown,Retail,In Transit,Standard
+500742,1016,2025-02-05,Jordan Lee,Facilities,In Transit,Standard
+500743,1008,2025-02-06,Casey Brown,Operations,In Transit,Standard
+500744,1011,2025-01-04,Casey Brown,IT,Closed,Standard
+500745,1019,2024-05-14,Casey Brown,Finance,Closed,Rush
+500746,1012,2024-06-22,Morgan Patel,Retail,Open,Standard
+500747,1013,2025-04-24,Taylor Smith,Operations,Open,Standard
+500748,1019,2024-12-09,Morgan Patel,Finance,Open,Standard
+500749,1008,2024-01-22,Morgan Patel,Operations,In Transit,Standard
+500750,1005,2025-10-08,Jordan Lee,Facilities,Open,Rush
+500751,1003,2024-10-06,Casey Brown,IT,Open,Standard
+500752,1019,2025-08-05,Casey Brown,Finance,In Transit,Standard
+500753,1002,2025-12-16,Casey Brown,Finance,Closed,Standard
+500754,1021,2025-03-12,Casey Brown,Operations,In Transit,Standard
+500755,1010,2025-01-06,Jordan Lee,Operations,Closed,Standard
+500756,1025,2024-11-07,Taylor Smith,IT,In Transit,Standard
+500757,1021,2025-06-05,Jordan Lee,Retail,Open,Standard
+500758,1011,2025-02-19,Alex Chen,IT,In Transit,Standard
+500759,1011,2025-11-18,Morgan Patel,IT,In Transit,Standard
+500760,1008,2024-09-06,Taylor Smith,Finance,Closed,Standard
+500761,1001,2024-07-29,Morgan Patel,Facilities,Open,Standard
+500762,1019,2025-02-09,Taylor Smith,Retail,Closed,Standard
+500763,1005,2024-03-08,Taylor Smith,IT,In Transit,Standard
+500764,1024,2024-09-15,Casey Brown,IT,In Transit,Standard
+500765,1007,2024-03-16,Casey Brown,Retail,Closed,Standard
+500766,1010,2024-07-02,Casey Brown,Facilities,Open,Rush
+500767,1025,2024-12-31,Morgan Patel,Operations,In Transit,Standard
+500768,1011,2025-05-11,Jordan Lee,IT,Open,Standard
+500769,1001,2025-07-13,Jordan Lee,IT,In Transit,Standard
+500770,1023,2024-08-30,Alex Chen,Operations,Closed,Standard
+500771,1015,2025-02-13,Jordan Lee,IT,In Transit,Standard
+500772,1021,2025-05-28,Alex Chen,Finance,Closed,Standard
+500773,1005,2024-02-28,Casey Brown,Operations,Closed,Standard
+500774,1019,2024-03-16,Taylor Smith,Finance,In Transit,Standard
+500775,1007,2024-01-06,Taylor Smith,Operations,In Transit,Rush
+500776,1011,2025-10-17,Alex Chen,IT,Closed,Standard
+500777,1024,2024-11-30,Alex Chen,Facilities,In Transit,Rush
+500778,1020,2025-02-19,Taylor Smith,Operations,Closed,Rush
+500779,1002,2025-02-28,Alex Chen,Retail,In Transit,Standard
+500780,1025,2024-12-08,Morgan Patel,Facilities,In Transit,Rush
+500781,1015,2024-09-20,Alex Chen,IT,Closed,Standard
+500782,1021,2025-07-31,Taylor Smith,Facilities,Closed,Standard
+500783,1023,2025-09-20,Taylor Smith,Operations,Closed,Rush
+500784,1005,2024-01-20,Jordan Lee,Retail,Closed,Standard
+500785,1012,2024-04-02,Taylor Smith,IT,Open,Standard
+500786,1022,2025-07-05,Casey Brown,Finance,In Transit,Standard
+500787,1020,2025-11-04,Casey Brown,Finance,Open,Standard
+500788,1009,2025-09-25,Morgan Patel,IT,Closed,Standard
+500789,1025,2025-10-29,Casey Brown,Facilities,In Transit,Standard
+500790,1009,2025-07-26,Taylor Smith,Retail,In Transit,Standard
+500791,1005,2024-10-07,Taylor Smith,Retail,Closed,Standard
+500792,1004,2025-05-02,Taylor Smith,Finance,Closed,Standard
+500793,1025,2025-02-14,Alex Chen,Retail,Closed,Standard
+500794,1004,2024-05-17,Alex Chen,Retail,In Transit,Rush
+500795,1018,2024-07-28,Jordan Lee,Retail,Open,Rush
+500796,1024,2025-01-09,Jordan Lee,Finance,Closed,Standard
+500797,1001,2025-06-25,Taylor Smith,Finance,In Transit,Rush
+500798,1016,2025-03-28,Jordan Lee,IT,In Transit,Standard
+500799,1015,2025-02-02,Jordan Lee,Operations,Open,Standard
+500800,1022,2024-04-20,Alex Chen,Facilities,Closed,Standard
+500801,1012,2025-11-21,Alex Chen,Retail,Closed,Rush
+500802,1014,2025-01-20,Morgan Patel,Finance,In Transit,Standard
+500803,1009,2024-02-01,Alex Chen,Facilities,Open,Standard
+500804,1008,2024-09-04,Taylor Smith,IT,Closed,Rush
+500805,1021,2025-03-11,Taylor Smith,Facilities,Open,Standard
+500806,1019,2024-08-09,Jordan Lee,IT,Open,Standard
+500807,1010,2024-05-19,Taylor Smith,IT,Closed,Standard
+500808,1016,2024-01-05,Jordan Lee,IT,Closed,Standard
+500809,1020,2025-11-30,Casey Brown,Finance,Open,Rush
+500810,1002,2025-08-16,Jordan Lee,IT,In Transit,Standard
+500811,1025,2024-02-17,Morgan Patel,Facilities,Closed,Standard
+500812,1010,2024-05-23,Alex Chen,Finance,Closed,Standard
+500813,1005,2024-01-10,Taylor Smith,Retail,Closed,Standard
+500814,1004,2024-12-26,Jordan Lee,Facilities,Open,Rush
+500815,1014,2024-04-02,Taylor Smith,Facilities,In Transit,Standard
+500816,1002,2024-12-09,Casey Brown,Finance,Closed,Standard
+500817,1023,2025-10-04,Alex Chen,Finance,Closed,Standard
+500818,1020,2025-05-31,Jordan Lee,Facilities,In Transit,Standard
+500819,1004,2025-12-16,Alex Chen,IT,Closed,Standard
+500820,1004,2024-03-07,Alex Chen,Finance,Open,Rush
+500821,1014,2025-06-22,Alex Chen,Finance,Closed,Rush
+500822,1018,2025-12-02,Jordan Lee,Retail,In Transit,Rush
+500823,1004,2025-05-27,Casey Brown,Facilities,Open,Standard
+500824,1012,2024-03-20,Jordan Lee,Operations,Closed,Standard
+500825,1023,2024-10-06,Jordan Lee,IT,Closed,Standard
+500826,1003,2024-10-02,Alex Chen,Retail,Closed,Standard
+500827,1014,2024-02-19,Casey Brown,IT,Open,Standard
+500828,1011,2024-01-11,Alex Chen,Facilities,In Transit,Standard
+500829,1010,2025-07-11,Casey Brown,Facilities,Open,Rush
+500830,1013,2024-10-02,Morgan Patel,Retail,Open,Standard
+500831,1013,2025-03-05,Jordan Lee,Facilities,Open,Standard
+500832,1005,2025-02-23,Alex Chen,Retail,Closed,Standard
+500833,1009,2025-05-28,Casey Brown,Facilities,In Transit,Rush
+500834,1007,2024-09-03,Alex Chen,Retail,Closed,Standard
+500835,1023,2024-02-04,Alex Chen,Retail,Open,Rush
+500836,1022,2024-11-28,Morgan Patel,IT,In Transit,Rush
+500837,1019,2025-04-11,Alex Chen,Facilities,Open,Standard
+500838,1011,2025-06-06,Casey Brown,Facilities,In Transit,Rush
+500839,1021,2024-08-28,Morgan Patel,Operations,Open,Standard
+500840,1017,2025-02-06,Taylor Smith,IT,In Transit,Standard
+500841,1021,2024-03-14,Casey Brown,Finance,In Transit,Standard
+500842,1025,2025-09-19,Taylor Smith,Facilities,Open,Standard
+500843,1017,2024-12-22,Casey Brown,Retail,Open,Standard
+500844,1005,2024-08-14,Alex Chen,IT,In Transit,Standard
+500845,1007,2025-06-20,Casey Brown,IT,Closed,Rush
+500846,1022,2024-09-01,Jordan Lee,Facilities,Closed,Standard
+500847,1021,2024-06-30,Alex Chen,Facilities,Open,Standard
+500848,1014,2025-01-05,Alex Chen,Finance,Open,Standard
+500849,1009,2025-12-20,Morgan Patel,IT,Closed,Standard
+500850,1022,2024-12-31,Casey Brown,IT,In Transit,Standard
+500851,1022,2025-04-08,Alex Chen,Facilities,Open,Standard
+500852,1015,2024-10-24,Alex Chen,Facilities,Open,Standard
+500853,1025,2024-06-27,Casey Brown,Operations,Closed,Rush
+500854,1005,2025-11-27,Taylor Smith,Retail,Open,Standard
+500855,1008,2025-11-07,Casey Brown,Retail,Open,Standard
+500856,1013,2024-12-14,Taylor Smith,Retail,Closed,Standard
+500857,1001,2024-07-24,Casey Brown,Operations,Open,Standard
+500858,1006,2025-08-27,Taylor Smith,Retail,In Transit,Standard
+500859,1011,2024-10-08,Taylor Smith,IT,Closed,Rush
+500860,1003,2025-03-24,Casey Brown,Facilities,In Transit,Standard
+500861,1007,2024-03-31,Jordan Lee,IT,Open,Standard
+500862,1025,2025-09-24,Taylor Smith,Facilities,Closed,Standard
+500863,1012,2025-01-19,Alex Chen,IT,In Transit,Standard
+500864,1014,2025-02-21,Casey Brown,IT,Open,Standard
+500865,1013,2024-09-01,Casey Brown,Retail,Closed,Standard
+500866,1023,2024-07-15,Casey Brown,Operations,Open,Standard
+500867,1007,2025-11-12,Taylor Smith,Operations,Closed,Standard
+500868,1013,2025-04-01,Morgan Patel,Facilities,In Transit,Rush
+500869,1021,2025-05-23,Alex Chen,Retail,Closed,Standard
+500870,1015,2025-07-31,Morgan Patel,Facilities,In Transit,Rush
+500871,1016,2025-02-28,Jordan Lee,Facilities,Closed,Standard
+500872,1016,2025-02-11,Jordan Lee,Operations,In Transit,Standard
+500873,1008,2025-11-17,Jordan Lee,Retail,Open,Standard
+500874,1022,2024-02-11,Taylor Smith,IT,In Transit,Standard
+500875,1025,2025-01-31,Morgan Patel,Operations,Closed,Standard
+500876,1003,2024-08-14,Casey Brown,Operations,Closed,Standard
+500877,1003,2025-05-23,Jordan Lee,Facilities,In Transit,Standard
+500878,1022,2024-02-26,Jordan Lee,IT,In Transit,Standard
+500879,1002,2025-05-09,Casey Brown,Facilities,In Transit,Standard
+500880,1005,2025-08-20,Morgan Patel,Finance,Closed,Standard
+500881,1011,2024-11-24,Jordan Lee,Operations,In Transit,Standard
+500882,1018,2024-07-09,Taylor Smith,IT,In Transit,Standard
+500883,1011,2024-03-29,Morgan Patel,IT,Open,Standard
+500884,1013,2025-07-23,Casey Brown,Operations,Open,Rush
+500885,1010,2024-11-10,Jordan Lee,Facilities,Open,Standard
+500886,1009,2025-07-06,Taylor Smith,Finance,Closed,Rush
+500887,1007,2024-02-23,Casey Brown,IT,In Transit,Standard
+500888,1022,2025-04-20,Morgan Patel,Retail,In Transit,Standard
+500889,1012,2024-05-24,Taylor Smith,Facilities,Closed,Standard
+500890,1018,2025-12-24,Alex Chen,IT,In Transit,Standard
+500891,1018,2024-01-09,Alex Chen,Retail,Open,Rush
+500892,1002,2024-11-27,Taylor Smith,Facilities,Closed,Rush
+500893,1007,2024-10-25,Jordan Lee,Retail,In Transit,Standard
+500894,1013,2025-04-10,Morgan Patel,Finance,Closed,Standard
+500895,1006,2024-02-29,Morgan Patel,Operations,In Transit,Standard
+500896,1005,2024-02-20,Alex Chen,Facilities,In Transit,Standard
+500897,1001,2024-07-03,Casey Brown,Finance,In Transit,Standard
+500898,1008,2025-05-25,Taylor Smith,Retail,Closed,Standard
+500899,1005,2024-06-11,Jordan Lee,Operations,In Transit,Standard
+500900,1004,2025-04-21,Jordan Lee,Operations,Closed,Standard
+500901,1008,2025-02-28,Taylor Smith,Facilities,In Transit,Standard
+500902,1014,2025-12-03,Jordan Lee,Finance,Closed,Standard
+500903,1006,2024-02-12,Morgan Patel,Finance,Open,Standard
+500904,1011,2025-08-19,Casey Brown,Finance,In Transit,Standard
+500905,1009,2024-11-12,Taylor Smith,Finance,In Transit,Rush
+500906,1022,2024-06-04,Jordan Lee,Operations,Open,Standard
+500907,1013,2024-12-01,Jordan Lee,IT,In Transit,Standard
+500908,1021,2024-08-16,Casey Brown,Operations,In Transit,Standard
+500909,1015,2024-07-21,Jordan Lee,Finance,In Transit,Standard
+500910,1011,2025-03-16,Morgan Patel,Operations,Closed,Rush
+500911,1004,2024-12-26,Jordan Lee,Retail,In Transit,Rush
+500912,1003,2025-06-22,Taylor Smith,IT,Open,Standard
+500913,1025,2024-01-19,Morgan Patel,Finance,Closed,Standard
+500914,1009,2025-05-11,Taylor Smith,Retail,In Transit,Rush
+500915,1025,2025-07-07,Alex Chen,Finance,Closed,Standard
+500916,1009,2025-04-26,Jordan Lee,IT,In Transit,Standard
+500917,1019,2024-02-03,Casey Brown,Operations,Closed,Standard
+500918,1007,2024-12-18,Jordan Lee,IT,In Transit,Standard
+500919,1006,2024-02-21,Taylor Smith,Facilities,Open,Standard
+500920,1008,2025-05-07,Taylor Smith,IT,In Transit,Standard
+500921,1004,2024-07-02,Taylor Smith,Retail,Closed,Standard
+500922,1004,2025-04-10,Casey Brown,Finance,Closed,Standard
+500923,1013,2025-09-01,Morgan Patel,Operations,Closed,Standard
+500924,1017,2024-02-10,Casey Brown,Facilities,Closed,Standard
+500925,1023,2025-10-24,Jordan Lee,Retail,Open,Standard
+500926,1003,2024-12-27,Taylor Smith,Finance,In Transit,Standard
+500927,1006,2025-01-03,Alex Chen,Operations,Open,Standard
+500928,1016,2025-10-22,Taylor Smith,IT,Closed,Standard
+500929,1004,2024-04-06,Jordan Lee,Finance,Closed,Standard
+500930,1009,2025-05-23,Casey Brown,Operations,In Transit,Standard
+500931,1015,2024-11-28,Jordan Lee,Retail,Closed,Standard
+500932,1002,2025-07-02,Casey Brown,IT,Open,Rush
+500933,1010,2024-07-21,Morgan Patel,Finance,In Transit,Standard
+500934,1008,2024-05-10,Casey Brown,Finance,In Transit,Rush
+500935,1001,2024-04-07,Alex Chen,Facilities,Closed,Standard
+500936,1019,2025-12-19,Jordan Lee,Finance,In Transit,Rush
+500937,1025,2024-03-30,Jordan Lee,IT,Closed,Standard
+500938,1014,2024-02-01,Morgan Patel,Retail,In Transit,Standard
+500939,1010,2024-04-22,Casey Brown,Operations,Closed,Standard
+500940,1019,2025-11-10,Jordan Lee,Finance,Closed,Standard
+500941,1025,2025-09-01,Casey Brown,Operations,In Transit,Standard
+500942,1003,2024-09-08,Casey Brown,Operations,Open,Rush
+500943,1007,2024-02-12,Casey Brown,Finance,In Transit,Standard
+500944,1011,2024-11-06,Alex Chen,Retail,Open,Rush
+500945,1001,2024-07-06,Taylor Smith,Facilities,Open,Standard
+500946,1003,2024-02-03,Jordan Lee,Retail,Closed,Standard
+500947,1006,2025-11-26,Jordan Lee,Finance,Open,Standard
+500948,1007,2024-07-27,Jordan Lee,IT,In Transit,Standard
+500949,1003,2025-12-26,Alex Chen,Operations,Open,Standard
+500950,1017,2025-05-24,Taylor Smith,Retail,Closed,Standard
+500951,1003,2025-10-13,Jordan Lee,Operations,In Transit,Standard
+500952,1014,2025-01-09,Alex Chen,IT,In Transit,Standard
+500953,1006,2025-08-19,Morgan Patel,Facilities,In Transit,Standard
+500954,1009,2024-05-18,Taylor Smith,Facilities,Closed,Standard
+500955,1019,2025-11-27,Jordan Lee,Facilities,Open,Rush
+500956,1017,2025-10-17,Taylor Smith,Retail,In Transit,Standard
+500957,1021,2025-06-28,Alex Chen,IT,Closed,Standard
+500958,1008,2024-08-25,Jordan Lee,Facilities,In Transit,Standard
+500959,1008,2025-07-29,Morgan Patel,Operations,In Transit,Standard
+500960,1022,2025-02-05,Morgan Patel,IT,In Transit,Standard
+500961,1013,2025-01-23,Alex Chen,IT,Closed,Standard
+500962,1020,2025-11-10,Morgan Patel,Operations,Open,Standard
+500963,1016,2024-11-03,Casey Brown,Operations,Closed,Standard
+500964,1014,2025-05-01,Morgan Patel,IT,In Transit,Rush
+500965,1005,2025-04-13,Taylor Smith,Finance,In Transit,Standard
+500966,1012,2024-03-26,Morgan Patel,Retail,Open,Standard
+500967,1010,2024-02-03,Taylor Smith,IT,Closed,Standard
+500968,1023,2024-07-10,Morgan Patel,Retail,Open,Standard
+500969,1004,2024-09-04,Jordan Lee,Operations,In Transit,Rush
+500970,1006,2025-01-19,Morgan Patel,IT,Open,Rush
+500971,1012,2024-06-03,Jordan Lee,IT,Closed,Standard
+500972,1013,2025-09-16,Taylor Smith,IT,Open,Standard
+500973,1020,2025-06-02,Jordan Lee,Facilities,Closed,Standard
+500974,1001,2025-06-23,Alex Chen,Operations,Closed,Standard
+500975,1015,2024-09-08,Casey Brown,IT,In Transit,Rush
+500976,1022,2024-12-26,Alex Chen,Retail,In Transit,Standard
+500977,1013,2025-11-13,Jordan Lee,Facilities,Open,Standard
+500978,1017,2024-03-18,Casey Brown,Facilities,Open,Standard
+500979,1010,2024-09-29,Taylor Smith,Facilities,Open,Standard
+500980,1022,2025-06-18,Alex Chen,Facilities,In Transit,Standard
+500981,1012,2025-05-20,Alex Chen,Operations,Closed,Standard
+500982,1013,2025-07-24,Morgan Patel,Retail,Open,Rush
+500983,1024,2024-06-04,Casey Brown,Facilities,In Transit,Rush
+500984,1011,2024-02-05,Morgan Patel,Operations,Closed,Standard
+500985,1005,2024-10-04,Jordan Lee,Retail,In Transit,Rush
+500986,1002,2025-06-04,Morgan Patel,Retail,Closed,Standard
+500987,1009,2025-10-18,Jordan Lee,Retail,Open,Standard
+500988,1014,2024-01-27,Casey Brown,Operations,Open,Rush
+500989,1021,2025-11-23,Morgan Patel,IT,Open,Standard
+500990,1009,2025-12-08,Taylor Smith,Retail,Closed,Standard
+500991,1002,2025-05-22,Casey Brown,Finance,Open,Rush
+500992,1017,2024-07-24,Alex Chen,IT,Closed,Standard
+500993,1006,2025-06-17,Taylor Smith,Retail,Closed,Standard
+500994,1013,2024-10-31,Taylor Smith,Finance,In Transit,Rush
+500995,1010,2024-10-05,Morgan Patel,Retail,Closed,Standard
+500996,1015,2024-11-24,Morgan Patel,IT,Closed,Standard
+500997,1013,2025-01-05,Taylor Smith,Facilities,Open,Standard
+500998,1004,2024-09-30,Jordan Lee,Facilities,In Transit,Standard
+500999,1014,2025-05-28,Jordan Lee,Operations,Open,Rush
+501000,1009,2024-06-04,Casey Brown,Retail,Open,Standard
+501001,1014,2025-11-17,Alex Chen,Facilities,Open,Standard
+501002,1023,2025-01-06,Morgan Patel,IT,In Transit,Standard
+501003,1004,2025-10-07,Taylor Smith,Operations,Open,Standard
+501004,1018,2024-02-12,Casey Brown,IT,Open,Standard
+501005,1012,2025-09-08,Taylor Smith,Operations,Closed,Rush
+501006,1004,2025-07-15,Casey Brown,Facilities,In Transit,Rush
+501007,1004,2025-12-29,Taylor Smith,Finance,Closed,Standard
+501008,1024,2025-10-11,Alex Chen,Facilities,Open,Standard
+501009,1013,2024-12-15,Morgan Patel,IT,Open,Standard
+501010,1006,2024-12-24,Jordan Lee,Retail,In Transit,Standard
+501011,1022,2025-02-27,Taylor Smith,Finance,Closed,Standard
+501012,1022,2024-12-12,Alex Chen,Operations,Open,Standard
+501013,1001,2025-05-29,Casey Brown,Finance,In Transit,Standard
+501014,1014,2025-08-14,Morgan Patel,Retail,Closed,Standard
+501015,1022,2024-10-07,Jordan Lee,Finance,Closed,Standard
+501016,1025,2025-11-18,Jordan Lee,Operations,In Transit,Standard
+501017,1002,2024-10-16,Morgan Patel,Finance,Open,Standard
+501018,1023,2025-10-24,Morgan Patel,IT,In Transit,Rush
+501019,1003,2025-12-30,Casey Brown,Retail,In Transit,Standard
+501020,1020,2024-10-06,Jordan Lee,IT,Closed,Standard
+501021,1012,2024-04-06,Casey Brown,IT,Closed,Rush
+501022,1023,2024-01-24,Casey Brown,Operations,Closed,Standard
+501023,1007,2024-11-28,Alex Chen,Finance,Open,Rush
+501024,1009,2025-04-02,Casey Brown,Facilities,Closed,Standard
+501025,1018,2025-08-27,Casey Brown,Operations,Closed,Standard
+501026,1015,2025-07-04,Alex Chen,Finance,Open,Standard
+501027,1021,2024-10-28,Taylor Smith,Retail,Open,Standard
+501028,1008,2025-08-05,Jordan Lee,Finance,In Transit,Standard
+501029,1019,2024-10-15,Casey Brown,Operations,In Transit,Standard
+501030,1025,2024-08-16,Jordan Lee,Retail,Closed,Standard
+501031,1014,2024-10-01,Taylor Smith,IT,Closed,Standard
+501032,1019,2024-04-01,Alex Chen,Facilities,Open,Standard
+501033,1019,2025-06-08,Morgan Patel,Operations,Closed,Standard
+501034,1018,2025-01-15,Taylor Smith,IT,In Transit,Rush
+501035,1021,2024-03-14,Morgan Patel,Finance,In Transit,Standard
+501036,1015,2025-03-17,Casey Brown,Finance,Open,Standard
+501037,1020,2024-12-15,Jordan Lee,Facilities,Closed,Standard
+501038,1010,2024-06-18,Jordan Lee,Retail,Closed,Standard
+501039,1015,2024-01-17,Jordan Lee,Finance,In Transit,Rush
+501040,1007,2024-09-28,Casey Brown,IT,In Transit,Standard
+501041,1024,2024-01-24,Casey Brown,Operations,In Transit,Standard
+501042,1012,2024-03-05,Jordan Lee,Operations,Open,Standard
+501043,1024,2025-10-18,Casey Brown,Retail,Open,Standard
+501044,1021,2024-12-29,Jordan Lee,IT,In Transit,Standard
+501045,1010,2024-12-29,Alex Chen,Finance,Closed,Standard
+501046,1012,2025-12-08,Morgan Patel,Facilities,Closed,Rush
+501047,1011,2024-04-14,Alex Chen,IT,Closed,Standard
+501048,1016,2025-04-27,Alex Chen,IT,Open,Standard
+501049,1005,2025-05-02,Alex Chen,Retail,In Transit,Standard
+501050,1017,2024-09-14,Morgan Patel,IT,Closed,Standard
+501051,1022,2024-09-14,Alex Chen,IT,Closed,Standard
+501052,1014,2025-06-15,Morgan Patel,Facilities,Closed,Rush
+501053,1005,2024-05-17,Alex Chen,Finance,Closed,Rush
+501054,1018,2025-08-22,Morgan Patel,Operations,Closed,Standard
+501055,1015,2024-03-29,Alex Chen,Retail,Closed,Standard
+501056,1003,2025-07-01,Taylor Smith,Retail,Open,Standard
+501057,1015,2025-07-27,Morgan Patel,Finance,In Transit,Standard
+501058,1008,2024-01-08,Jordan Lee,Facilities,Open,Standard
+501059,1004,2024-04-16,Casey Brown,Finance,Closed,Standard
+501060,1015,2025-03-26,Casey Brown,Facilities,In Transit,Standard
+501061,1019,2024-03-10,Alex Chen,Finance,Open,Rush
+501062,1021,2025-02-13,Jordan Lee,Facilities,In Transit,Standard
+501063,1016,2025-12-09,Casey Brown,Operations,Closed,Standard
+501064,1020,2025-05-24,Morgan Patel,Finance,Closed,Rush
+501065,1001,2024-08-22,Morgan Patel,Finance,In Transit,Rush
+501066,1024,2025-10-11,Alex Chen,Operations,Closed,Standard
+501067,1001,2024-07-23,Alex Chen,Operations,Open,Standard
+501068,1008,2025-02-15,Jordan Lee,Operations,In Transit,Rush
+501069,1021,2025-07-23,Casey Brown,IT,Open,Standard
+501070,1005,2024-02-12,Morgan Patel,Facilities,Closed,Standard
+501071,1025,2024-04-16,Alex Chen,Finance,Closed,Standard
+501072,1006,2025-06-25,Casey Brown,IT,In Transit,Standard
+501073,1017,2024-04-18,Morgan Patel,Operations,Closed,Standard
+501074,1018,2024-01-31,Alex Chen,Retail,In Transit,Rush
+501075,1020,2025-09-26,Casey Brown,Operations,In Transit,Standard
+501076,1002,2025-12-23,Casey Brown,IT,In Transit,Standard
+501077,1013,2025-04-13,Alex Chen,Finance,In Transit,Standard
+501078,1006,2024-01-25,Casey Brown,Finance,Open,Standard
+501079,1023,2024-05-05,Jordan Lee,Facilities,In Transit,Standard
+501080,1020,2024-04-23,Alex Chen,Retail,In Transit,Standard
+501081,1022,2024-12-26,Alex Chen,Finance,Closed,Standard
+501082,1003,2024-04-13,Taylor Smith,IT,Open,Rush
+501083,1025,2024-11-12,Taylor Smith,Facilities,Closed,Standard
+501084,1019,2025-09-12,Taylor Smith,Operations,Closed,Standard
+501085,1003,2024-03-21,Alex Chen,Retail,Closed,Standard
+501086,1017,2024-08-07,Morgan Patel,Facilities,Open,Standard
+501087,1019,2025-09-17,Jordan Lee,Operations,In Transit,Rush
+501088,1002,2024-01-23,Alex Chen,Finance,In Transit,Standard
+501089,1002,2025-03-17,Jordan Lee,IT,In Transit,Standard
+501090,1009,2025-03-28,Jordan Lee,IT,Open,Standard
+501091,1001,2024-12-22,Taylor Smith,Operations,Open,Rush
+501092,1015,2024-06-15,Jordan Lee,Facilities,In Transit,Standard
+501093,1025,2025-09-30,Taylor Smith,Finance,Open,Standard
+501094,1014,2024-01-14,Casey Brown,IT,Closed,Rush
+501095,1018,2024-08-24,Taylor Smith,Operations,Open,Standard
+501096,1011,2024-09-01,Alex Chen,Finance,In Transit,Standard
+501097,1002,2024-04-17,Taylor Smith,IT,Open,Standard
+501098,1003,2025-01-10,Casey Brown,Facilities,Closed,Rush
+501099,1007,2024-06-13,Casey Brown,Retail,Closed,Standard
+501100,1014,2024-09-07,Casey Brown,Operations,In Transit,Standard
+501101,1007,2025-10-25,Jordan Lee,Operations,Open,Standard
+501102,1014,2024-09-23,Alex Chen,Retail,Closed,Standard
+501103,1020,2025-03-24,Jordan Lee,IT,In Transit,Standard
+501104,1008,2025-02-04,Taylor Smith,Operations,Open,Standard
+501105,1023,2024-04-03,Jordan Lee,IT,In Transit,Standard
+501106,1021,2025-09-25,Casey Brown,Operations,Closed,Standard
+501107,1003,2025-09-04,Morgan Patel,Operations,Open,Standard
+501108,1024,2024-03-06,Alex Chen,Operations,In Transit,Standard
+501109,1012,2024-03-16,Alex Chen,Retail,Closed,Standard
+501110,1024,2024-04-25,Morgan Patel,Retail,In Transit,Standard
+501111,1009,2025-12-05,Morgan Patel,Operations,Closed,Rush
+501112,1010,2024-09-18,Morgan Patel,Finance,Open,Standard
+501113,1024,2025-03-31,Alex Chen,IT,Open,Standard
+501114,1007,2024-11-26,Alex Chen,Finance,Open,Standard
+501115,1007,2024-04-19,Taylor Smith,IT,In Transit,Standard
+501116,1020,2024-10-11,Alex Chen,Operations,Closed,Standard
+501117,1006,2024-04-01,Casey Brown,IT,Open,Standard
+501118,1002,2024-07-03,Jordan Lee,Operations,Open,Standard
+501119,1013,2024-02-28,Taylor Smith,Operations,In Transit,Standard
+501120,1019,2025-08-06,Jordan Lee,Operations,Closed,Rush
+501121,1001,2024-10-29,Taylor Smith,IT,Closed,Standard
+501122,1018,2025-01-07,Jordan Lee,IT,Closed,Standard
+501123,1012,2024-09-14,Taylor Smith,Retail,Closed,Standard
+501124,1004,2025-11-10,Jordan Lee,IT,Closed,Standard
+501125,1025,2025-01-24,Alex Chen,Finance,Closed,Standard
+501126,1025,2024-08-12,Morgan Patel,Finance,Open,Standard
+501127,1016,2025-10-18,Taylor Smith,Operations,Closed,Standard
+501128,1022,2024-04-11,Morgan Patel,Finance,Open,Standard
+501129,1001,2024-10-15,Morgan Patel,Facilities,Open,Rush
+501130,1004,2024-04-28,Morgan Patel,Facilities,In Transit,Rush
+501131,1013,2024-04-05,Alex Chen,Facilities,Open,Standard
+501132,1008,2024-06-26,Morgan Patel,Operations,Open,Standard
+501133,1007,2024-05-01,Alex Chen,IT,Open,Rush
+501134,1016,2025-03-30,Jordan Lee,Retail,Open,Rush
+501135,1003,2024-02-28,Casey Brown,Facilities,Closed,Standard
+501136,1019,2024-08-09,Casey Brown,Operations,Open,Standard
+501137,1014,2024-03-02,Casey Brown,Finance,Closed,Standard
+501138,1006,2025-06-18,Casey Brown,Finance,Open,Standard
+501139,1003,2024-04-13,Morgan Patel,Facilities,Open,Standard
+501140,1024,2025-04-16,Jordan Lee,Facilities,Closed,Standard
+501141,1011,2025-10-08,Alex Chen,IT,Closed,Standard
+501142,1012,2025-11-09,Alex Chen,Facilities,Closed,Standard
+501143,1009,2025-05-08,Jordan Lee,Operations,In Transit,Standard
+501144,1021,2025-10-04,Casey Brown,Facilities,Closed,Standard
+501145,1024,2025-12-04,Alex Chen,Finance,In Transit,Rush
+501146,1022,2025-05-25,Casey Brown,IT,Closed,Standard
+501147,1013,2024-05-28,Taylor Smith,Operations,In Transit,Standard
+501148,1022,2025-01-11,Jordan Lee,Finance,In Transit,Rush
+501149,1020,2024-01-17,Morgan Patel,Operations,In Transit,Standard
+501150,1007,2025-04-05,Alex Chen,Facilities,Open,Standard
+501151,1007,2024-05-23,Taylor Smith,IT,In Transit,Standard
+501152,1007,2025-08-20,Alex Chen,Operations,Open,Standard
+501153,1006,2025-11-26,Alex Chen,Facilities,Open,Rush
+501154,1003,2024-08-26,Morgan Patel,Retail,Open,Standard
+501155,1022,2025-05-18,Jordan Lee,Finance,In Transit,Standard
+501156,1016,2024-07-16,Jordan Lee,Facilities,Open,Standard
+501157,1008,2024-10-04,Taylor Smith,Facilities,Closed,Standard
+501158,1011,2024-06-30,Morgan Patel,Operations,In Transit,Standard
+501159,1012,2025-08-05,Jordan Lee,Operations,Closed,Standard
+501160,1020,2024-06-07,Taylor Smith,Facilities,In Transit,Standard
+501161,1018,2025-05-01,Casey Brown,Facilities,In Transit,Standard
+501162,1009,2024-05-20,Jordan Lee,Operations,In Transit,Standard
+501163,1014,2024-10-07,Jordan Lee,Retail,Closed,Rush
+501164,1019,2024-05-18,Taylor Smith,Finance,Closed,Standard
+501165,1014,2024-08-27,Jordan Lee,Retail,Closed,Standard
+501166,1014,2025-04-08,Taylor Smith,Finance,In Transit,Standard
+501167,1024,2024-06-03,Taylor Smith,Facilities,In Transit,Standard
+501168,1002,2024-04-07,Morgan Patel,Operations,Closed,Standard
+501169,1003,2024-10-23,Taylor Smith,Finance,Closed,Standard
+501170,1003,2025-03-06,Casey Brown,IT,Open,Standard
+501171,1021,2025-11-10,Casey Brown,Operations,In Transit,Standard
+501172,1008,2025-04-01,Morgan Patel,Retail,In Transit,Standard
+501173,1022,2025-08-23,Taylor Smith,Retail,In Transit,Standard
+501174,1014,2024-07-16,Alex Chen,IT,In Transit,Standard
+501175,1013,2025-08-07,Jordan Lee,IT,In Transit,Rush
+501176,1008,2025-10-20,Morgan Patel,Retail,Open,Standard
+501177,1022,2024-09-20,Alex Chen,Operations,In Transit,Standard
+501178,1022,2025-10-01,Morgan Patel,IT,Closed,Standard
+501179,1015,2024-01-10,Morgan Patel,Finance,Open,Standard
+501180,1011,2025-04-21,Jordan Lee,Operations,Open,Rush
+501181,1018,2024-07-31,Morgan Patel,Finance,Open,Standard
+501182,1012,2024-08-26,Taylor Smith,Facilities,Open,Standard
+501183,1005,2025-01-08,Jordan Lee,Finance,In Transit,Rush
+501184,1004,2024-09-29,Alex Chen,Finance,In Transit,Rush
+501185,1020,2025-02-19,Morgan Patel,Operations,In Transit,Standard
+501186,1019,2025-04-25,Morgan Patel,Retail,Open,Standard
+501187,1012,2025-07-09,Taylor Smith,Facilities,In Transit,Rush
+501188,1006,2024-11-18,Morgan Patel,Operations,In Transit,Standard
+501189,1022,2025-11-23,Jordan Lee,IT,Open,Standard
+501190,1021,2024-04-29,Taylor Smith,Finance,In Transit,Rush
+501191,1008,2025-10-11,Casey Brown,IT,Closed,Standard
+501192,1021,2024-11-04,Taylor Smith,Operations,Closed,Standard
+501193,1015,2025-09-07,Casey Brown,Finance,Closed,Standard
+501194,1020,2024-01-16,Casey Brown,Retail,Open,Standard
+501195,1001,2024-10-05,Alex Chen,Finance,Closed,Rush
+501196,1023,2024-03-28,Jordan Lee,Finance,Closed,Rush
+501197,1006,2024-08-23,Taylor Smith,Finance,In Transit,Standard
+501198,1001,2024-01-20,Alex Chen,Operations,Closed,Standard
+501199,1005,2024-07-22,Morgan Patel,Operations,Open,Standard
+501200,1012,2025-06-18,Taylor Smith,Facilities,Open,Rush
+501201,1009,2025-05-05,Taylor Smith,Operations,Closed,Standard
+501202,1006,2024-09-27,Taylor Smith,Operations,Closed,Standard
+501203,1002,2025-10-01,Taylor Smith,IT,Closed,Rush
+501204,1017,2024-12-15,Morgan Patel,Finance,Closed,Standard
+501205,1018,2025-09-11,Alex Chen,Facilities,Closed,Standard
+501206,1010,2025-01-29,Alex Chen,IT,Closed,Standard
+501207,1016,2024-03-14,Alex Chen,Retail,Closed,Standard
+501208,1007,2024-06-04,Morgan Patel,Finance,Open,Standard
+501209,1003,2025-09-29,Morgan Patel,Facilities,In Transit,Standard
+501210,1001,2024-05-21,Jordan Lee,Finance,In Transit,Standard
+501211,1021,2024-04-20,Morgan Patel,IT,Closed,Standard
+501212,1014,2025-05-28,Casey Brown,IT,In Transit,Rush
+501213,1001,2024-02-28,Jordan Lee,Operations,In Transit,Standard
+501214,1017,2024-08-14,Taylor Smith,Facilities,Closed,Standard
+501215,1007,2025-09-21,Jordan Lee,IT,Closed,Standard
+501216,1009,2025-11-09,Jordan Lee,Operations,Closed,Standard
+501217,1015,2024-08-19,Taylor Smith,IT,In Transit,Standard
+501218,1011,2025-02-10,Casey Brown,IT,In Transit,Standard
+501219,1025,2024-02-26,Casey Brown,Operations,Open,Standard
+501220,1002,2024-10-27,Taylor Smith,Finance,In Transit,Standard
+501221,1006,2024-06-03,Jordan Lee,Operations,Open,Standard
+501222,1011,2024-07-21,Alex Chen,Retail,In Transit,Standard
+501223,1022,2025-01-06,Morgan Patel,IT,In Transit,Standard
+501224,1004,2024-03-17,Alex Chen,Facilities,In Transit,Standard
+501225,1016,2025-03-23,Alex Chen,Retail,Open,Standard
+501226,1015,2024-08-15,Taylor Smith,Facilities,Open,Standard
+501227,1012,2025-12-23,Casey Brown,IT,Open,Rush
+501228,1002,2025-09-25,Alex Chen,Operations,Open,Rush
+501229,1009,2025-10-14,Jordan Lee,Retail,Closed,Standard
+501230,1003,2024-05-12,Morgan Patel,Retail,In Transit,Rush
+501231,1010,2024-02-05,Alex Chen,IT,In Transit,Standard
+501232,1017,2025-03-23,Alex Chen,Facilities,Closed,Standard
+501233,1004,2025-12-15,Alex Chen,IT,Closed,Rush
+501234,1005,2025-11-17,Casey Brown,Operations,Closed,Standard
+501235,1006,2024-11-19,Casey Brown,Facilities,In Transit,Rush
+501236,1008,2024-06-22,Jordan Lee,Facilities,Open,Standard
+501237,1011,2025-12-25,Taylor Smith,Finance,Closed,Standard
+501238,1018,2025-04-14,Alex Chen,IT,Closed,Standard
+501239,1016,2025-01-30,Jordan Lee,Retail,Closed,Standard
+501240,1025,2024-10-22,Morgan Patel,Finance,Open,Rush
+501241,1024,2024-05-12,Jordan Lee,Operations,Open,Standard
+501242,1011,2025-06-09,Jordan Lee,IT,Closed,Standard
+501243,1016,2025-06-09,Jordan Lee,IT,In Transit,Standard
+501244,1006,2024-11-16,Taylor Smith,Finance,In Transit,Rush
+501245,1014,2025-11-06,Alex Chen,Finance,Closed,Standard
+501246,1012,2025-08-11,Alex Chen,Retail,Open,Standard
+501247,1002,2024-02-10,Taylor Smith,IT,Closed,Standard
+501248,1012,2024-09-29,Taylor Smith,Retail,Open,Standard
+501249,1013,2024-12-27,Morgan Patel,Operations,Open,Rush
+501250,1001,2024-08-20,Morgan Patel,Retail,In Transit,Standard
+501251,1021,2024-09-07,Alex Chen,Finance,In Transit,Standard
+501252,1010,2024-06-03,Taylor Smith,IT,In Transit,Standard
+501253,1014,2025-01-24,Taylor Smith,Finance,Closed,Standard
+501254,1023,2025-07-06,Taylor Smith,Operations,In Transit,Standard
+501255,1006,2024-12-19,Taylor Smith,Retail,Closed,Standard
+501256,1002,2025-10-30,Casey Brown,IT,Open,Rush
+501257,1015,2025-04-26,Jordan Lee,IT,In Transit,Standard
+501258,1008,2025-01-04,Alex Chen,Operations,Closed,Standard
+501259,1001,2024-11-30,Alex Chen,IT,Closed,Standard
+501260,1020,2024-03-13,Alex Chen,Operations,Open,Rush
+501261,1015,2024-07-22,Morgan Patel,Facilities,Open,Standard
+501262,1010,2025-01-22,Casey Brown,IT,Open,Standard
+501263,1024,2024-12-19,Taylor Smith,IT,In Transit,Standard
+501264,1004,2025-08-10,Casey Brown,Retail,In Transit,Rush
+501265,1016,2024-03-11,Morgan Patel,Operations,Open,Standard
+501266,1008,2025-11-12,Jordan Lee,IT,Closed,Standard
+501267,1012,2025-07-09,Alex Chen,Retail,In Transit,Standard
+501268,1015,2024-02-05,Casey Brown,Facilities,In Transit,Standard
+501269,1023,2024-01-25,Jordan Lee,Operations,Open,Standard
+501270,1017,2024-07-07,Taylor Smith,IT,In Transit,Standard
+501271,1008,2024-04-13,Casey Brown,Finance,Closed,Standard
+501272,1024,2025-01-10,Morgan Patel,Facilities,Closed,Standard
+501273,1023,2025-10-14,Alex Chen,Finance,Open,Standard
+501274,1010,2024-12-01,Taylor Smith,Finance,In Transit,Standard
+501275,1018,2025-05-18,Casey Brown,Finance,Closed,Standard
+501276,1013,2025-09-11,Casey Brown,Finance,Closed,Rush
+501277,1021,2024-01-18,Casey Brown,Retail,Closed,Standard
+501278,1002,2025-01-05,Alex Chen,Retail,Closed,Standard
+501279,1017,2024-01-24,Jordan Lee,Facilities,In Transit,Standard
+501280,1018,2024-06-07,Jordan Lee,Finance,Closed,Standard
+501281,1015,2025-10-08,Alex Chen,Finance,Open,Standard
+501282,1023,2025-09-08,Taylor Smith,IT,In Transit,Standard
+501283,1014,2024-08-27,Jordan Lee,Facilities,In Transit,Standard
+501284,1003,2024-02-25,Alex Chen,Finance,Open,Standard
+501285,1018,2024-08-30,Taylor Smith,Retail,Closed,Rush
+501286,1008,2024-06-28,Casey Brown,Finance,Closed,Rush
+501287,1024,2025-08-22,Alex Chen,Facilities,In Transit,Rush
+501288,1020,2025-12-30,Jordan Lee,Facilities,Open,Rush
+501289,1002,2025-06-07,Morgan Patel,Facilities,Closed,Rush
+501290,1003,2024-03-29,Casey Brown,Facilities,In Transit,Standard
+501291,1011,2024-05-25,Morgan Patel,Finance,Closed,Standard
+501292,1011,2025-07-10,Morgan Patel,Finance,In Transit,Rush
+501293,1008,2024-07-22,Jordan Lee,IT,Open,Rush
+501294,1014,2025-09-25,Taylor Smith,Finance,Open,Rush
+501295,1007,2025-10-12,Morgan Patel,Finance,Closed,Standard
+501296,1019,2024-07-16,Taylor Smith,Retail,Closed,Standard
+501297,1006,2024-10-30,Morgan Patel,Facilities,Open,Standard
+501298,1016,2025-08-29,Morgan Patel,Facilities,Open,Standard
+501299,1007,2025-06-14,Morgan Patel,Retail,In Transit,Standard
+501300,1017,2024-05-28,Jordan Lee,Operations,Closed,Rush
+501301,1023,2024-12-26,Morgan Patel,Facilities,Closed,Standard
+501302,1012,2024-04-12,Morgan Patel,IT,Open,Standard
+501303,1023,2025-12-22,Morgan Patel,Finance,In Transit,Standard
+501304,1019,2025-04-21,Casey Brown,Operations,Closed,Standard
+501305,1012,2025-05-03,Casey Brown,Facilities,In Transit,Standard
+501306,1020,2025-03-18,Taylor Smith,Retail,Closed,Standard
+501307,1022,2025-10-30,Alex Chen,Finance,In Transit,Standard
+501308,1012,2025-10-03,Morgan Patel,Retail,Open,Standard
+501309,1022,2025-08-08,Jordan Lee,Finance,Open,Standard
+501310,1018,2025-07-16,Morgan Patel,Finance,In Transit,Standard
+501311,1004,2024-10-19,Jordan Lee,Retail,Closed,Standard
+501312,1016,2024-11-26,Morgan Patel,IT,Open,Standard
+501313,1017,2025-01-07,Alex Chen,Retail,Open,Standard
+501314,1011,2025-06-28,Morgan Patel,IT,Closed,Standard
+501315,1013,2024-09-17,Casey Brown,Retail,In Transit,Standard
+501316,1001,2024-09-23,Taylor Smith,Operations,Open,Standard
+501317,1021,2025-01-06,Casey Brown,IT,Closed,Standard
+501318,1010,2024-12-06,Morgan Patel,Facilities,Closed,Rush
+501319,1003,2024-01-23,Jordan Lee,Operations,Closed,Standard
+501320,1005,2024-05-23,Taylor Smith,Finance,Closed,Standard
+501321,1014,2024-02-28,Taylor Smith,Operations,Closed,Standard
+501322,1018,2024-05-27,Casey Brown,Finance,Closed,Rush
+501323,1007,2025-03-20,Alex Chen,Facilities,In Transit,Standard
+501324,1014,2025-01-30,Alex Chen,Finance,In Transit,Rush
+501325,1005,2025-09-03,Taylor Smith,Operations,Closed,Standard
+501326,1006,2024-02-27,Alex Chen,Operations,Closed,Standard
+501327,1023,2024-12-01,Jordan Lee,Facilities,Closed,Standard
+501328,1004,2024-06-14,Jordan Lee,Retail,Closed,Rush
+501329,1022,2025-01-01,Jordan Lee,Operations,Open,Standard
+501330,1011,2025-03-20,Morgan Patel,IT,Open,Rush
+501331,1008,2025-04-01,Morgan Patel,Finance,Closed,Standard
+501332,1006,2024-06-18,Jordan Lee,Operations,Open,Standard
+501333,1017,2025-04-01,Casey Brown,Operations,In Transit,Standard
+501334,1018,2025-03-26,Casey Brown,Facilities,Closed,Rush
+501335,1001,2025-03-25,Casey Brown,IT,In Transit,Standard
+501336,1013,2025-11-07,Casey Brown,Operations,Closed,Standard
+501337,1017,2025-07-28,Jordan Lee,Finance,Open,Standard
+501338,1013,2025-12-05,Jordan Lee,Operations,In Transit,Standard
+501339,1023,2025-05-27,Casey Brown,IT,Closed,Standard
+501340,1023,2025-02-28,Jordan Lee,Facilities,In Transit,Standard
+501341,1014,2025-11-09,Taylor Smith,Retail,Open,Rush
+501342,1006,2025-09-21,Taylor Smith,Finance,Open,Standard
+501343,1007,2024-10-02,Casey Brown,Retail,Closed,Standard
+501344,1011,2025-12-05,Taylor Smith,Retail,In Transit,Rush
+501345,1020,2024-09-25,Taylor Smith,Retail,Closed,Rush
+501346,1016,2025-07-13,Taylor Smith,Facilities,Closed,Standard
+501347,1005,2024-02-17,Morgan Patel,Retail,Closed,Standard
+501348,1010,2025-02-28,Casey Brown,Facilities,In Transit,Standard
+501349,1001,2025-12-22,Alex Chen,Finance,In Transit,Rush
+501350,1013,2024-04-15,Taylor Smith,Retail,Closed,Standard
+501351,1015,2025-03-21,Taylor Smith,Facilities,Closed,Rush
+501352,1012,2025-10-26,Alex Chen,Facilities,Closed,Standard
+501353,1007,2024-11-02,Alex Chen,IT,In Transit,Standard
+501354,1012,2024-10-11,Jordan Lee,Retail,In Transit,Standard
+501355,1014,2025-06-23,Casey Brown,IT,In Transit,Standard
+501356,1021,2025-04-12,Taylor Smith,Facilities,Open,Standard
+501357,1002,2024-05-01,Jordan Lee,IT,In Transit,Standard
+501358,1020,2024-02-24,Casey Brown,Finance,In Transit,Standard
+501359,1021,2024-12-26,Morgan Patel,IT,Closed,Standard
+501360,1002,2025-06-02,Morgan Patel,Operations,Open,Standard
+501361,1003,2024-03-29,Alex Chen,Facilities,Closed,Standard
+501362,1016,2025-09-07,Alex Chen,IT,In Transit,Standard
+501363,1020,2024-12-17,Jordan Lee,Operations,Closed,Rush
+501364,1006,2025-10-22,Casey Brown,IT,Open,Standard
+501365,1006,2024-06-17,Jordan Lee,Finance,Open,Standard
+501366,1009,2024-09-13,Alex Chen,Finance,Closed,Standard
+501367,1010,2025-09-19,Alex Chen,Facilities,In Transit,Standard
+501368,1020,2025-06-29,Morgan Patel,Operations,Closed,Standard
+501369,1016,2025-03-02,Taylor Smith,Operations,In Transit,Standard
+501370,1008,2025-01-27,Morgan Patel,Retail,Open,Rush
+501371,1009,2024-07-19,Jordan Lee,Operations,In Transit,Standard
+501372,1011,2025-07-21,Morgan Patel,Finance,Closed,Standard
+501373,1016,2025-04-26,Morgan Patel,Retail,Open,Rush
+501374,1004,2025-01-11,Casey Brown,Retail,Open,Rush
+501375,1006,2024-12-02,Taylor Smith,IT,Closed,Standard
+501376,1004,2025-01-23,Jordan Lee,Retail,Open,Standard
+501377,1011,2024-10-16,Morgan Patel,Retail,In Transit,Standard
+501378,1011,2024-07-01,Alex Chen,Finance,Open,Standard
+501379,1004,2025-04-14,Taylor Smith,IT,Open,Standard
+501380,1025,2025-07-30,Taylor Smith,Finance,Open,Standard
+501381,1022,2025-07-10,Jordan Lee,Finance,Open,Standard
+501382,1007,2025-09-11,Taylor Smith,Finance,Open,Rush
+501383,1019,2025-12-27,Alex Chen,Operations,Open,Rush
+501384,1018,2024-08-02,Alex Chen,Retail,Closed,Standard
+501385,1022,2025-06-03,Alex Chen,Operations,Closed,Rush
+501386,1010,2025-12-01,Alex Chen,Retail,Closed,Standard
+501387,1022,2025-12-31,Alex Chen,Operations,Open,Standard
+501388,1003,2025-03-12,Taylor Smith,Retail,Open,Standard
+501389,1001,2025-12-10,Casey Brown,IT,Open,Standard
+501390,1019,2025-12-28,Casey Brown,Operations,Closed,Standard
+501391,1007,2025-08-09,Jordan Lee,Operations,Closed,Standard
+501392,1004,2024-08-03,Taylor Smith,Retail,In Transit,Standard
+501393,1022,2024-11-27,Morgan Patel,Operations,Open,Standard
+501394,1020,2024-03-09,Morgan Patel,IT,Closed,Standard
+501395,1005,2025-06-10,Morgan Patel,Operations,Open,Standard
+501396,1002,2024-01-28,Morgan Patel,Retail,In Transit,Standard
+501397,1013,2025-10-31,Jordan Lee,IT,Open,Standard
+501398,1005,2025-07-18,Taylor Smith,IT,Open,Standard
+501399,1005,2025-07-10,Jordan Lee,Finance,Closed,Standard
+501400,1004,2024-06-01,Casey Brown,Finance,Closed,Standard
+501401,1017,2024-11-12,Casey Brown,Operations,In Transit,Standard
+501402,1016,2025-07-27,Morgan Patel,Retail,Open,Standard
+501403,1024,2024-01-16,Alex Chen,Facilities,Closed,Standard
+501404,1008,2024-05-23,Alex Chen,IT,Closed,Standard
+501405,1025,2024-09-04,Alex Chen,Retail,Open,Standard
+501406,1014,2025-01-31,Taylor Smith,Operations,Open,Standard
+501407,1022,2024-08-15,Alex Chen,Retail,Open,Standard
+501408,1002,2024-09-01,Casey Brown,Finance,Closed,Standard
+501409,1009,2024-03-12,Alex Chen,Operations,Open,Rush
+501410,1021,2024-12-12,Alex Chen,IT,Open,Standard
+501411,1017,2024-03-16,Morgan Patel,Finance,Closed,Standard
+501412,1010,2024-06-25,Morgan Patel,Operations,Open,Standard
+501413,1017,2025-12-24,Morgan Patel,Retail,Closed,Rush
+501414,1016,2024-02-16,Alex Chen,Finance,In Transit,Rush
+501415,1002,2025-10-02,Taylor Smith,Operations,In Transit,Standard
+501416,1002,2024-12-09,Alex Chen,Finance,In Transit,Standard
+501417,1013,2025-06-06,Jordan Lee,Finance,Closed,Standard
+501418,1009,2025-03-19,Morgan Patel,Finance,Closed,Standard
+501419,1001,2025-04-23,Jordan Lee,Facilities,In Transit,Standard
+501420,1007,2024-04-13,Morgan Patel,Retail,Closed,Standard
+501421,1010,2025-12-04,Taylor Smith,Finance,Open,Standard
+501422,1022,2024-09-29,Taylor Smith,Operations,Closed,Rush
+501423,1014,2025-02-14,Morgan Patel,Finance,Closed,Standard
+501424,1003,2024-03-27,Alex Chen,Finance,In Transit,Standard
+501425,1021,2024-09-26,Alex Chen,Retail,Open,Standard
+501426,1016,2025-11-27,Taylor Smith,Operations,Closed,Standard
+501427,1016,2025-11-16,Casey Brown,IT,Open,Standard
+501428,1019,2024-03-05,Morgan Patel,Finance,Closed,Standard
+501429,1016,2024-03-09,Morgan Patel,Operations,Closed,Standard
+501430,1006,2025-12-15,Casey Brown,Operations,In Transit,Standard
+501431,1004,2024-03-17,Taylor Smith,Operations,Closed,Standard
+501432,1019,2024-08-14,Taylor Smith,Finance,Open,Standard
+501433,1012,2025-12-13,Morgan Patel,IT,In Transit,Standard
+501434,1015,2024-06-14,Morgan Patel,Operations,Closed,Standard
+501435,1003,2024-05-15,Casey Brown,Facilities,In Transit,Standard
+501436,1021,2024-08-28,Jordan Lee,IT,In Transit,Rush
+501437,1004,2024-04-29,Morgan Patel,Finance,Closed,Standard
+501438,1005,2024-01-04,Alex Chen,Operations,Open,Standard
+501439,1019,2024-11-09,Taylor Smith,Retail,In Transit,Standard
+501440,1015,2025-08-25,Casey Brown,Finance,In Transit,Standard
+501441,1017,2024-11-14,Jordan Lee,IT,Open,Standard
+501442,1012,2024-05-09,Taylor Smith,Retail,In Transit,Rush
+501443,1008,2025-08-25,Casey Brown,Retail,Open,Standard
+501444,1017,2024-05-11,Alex Chen,Facilities,Open,Standard
+501445,1020,2025-11-11,Jordan Lee,Retail,Closed,Standard
+501446,1009,2024-10-27,Alex Chen,Facilities,In Transit,Standard
+501447,1017,2025-01-18,Morgan Patel,Retail,Closed,Standard
+501448,1013,2025-07-09,Casey Brown,IT,Open,Standard
+501449,1023,2025-02-15,Alex Chen,Facilities,Open,Standard
+501450,1024,2024-11-24,Jordan Lee,Facilities,In Transit,Standard
+501451,1023,2025-01-01,Taylor Smith,IT,Open,Standard
+501452,1025,2024-03-29,Taylor Smith,Finance,In Transit,Rush
+501453,1014,2024-08-27,Taylor Smith,IT,In Transit,Standard
+501454,1001,2025-12-11,Taylor Smith,Operations,In Transit,Standard
+501455,1012,2024-12-15,Morgan Patel,Facilities,Closed,Standard
+501456,1017,2025-09-14,Taylor Smith,IT,Closed,Rush
+501457,1016,2024-12-11,Alex Chen,Finance,In Transit,Standard
+501458,1004,2025-05-14,Taylor Smith,IT,Closed,Standard
+501459,1002,2025-05-13,Jordan Lee,Facilities,Open,Standard
+501460,1010,2025-03-25,Morgan Patel,IT,Closed,Standard
+501461,1021,2024-06-06,Jordan Lee,Finance,In Transit,Rush
+501462,1009,2024-12-26,Alex Chen,Finance,In Transit,Rush
+501463,1002,2024-12-05,Jordan Lee,Facilities,Closed,Rush
+501464,1007,2025-03-10,Jordan Lee,Retail,Open,Standard
+501465,1004,2024-05-02,Taylor Smith,Retail,Open,Rush
+501466,1020,2025-02-11,Taylor Smith,Facilities,Closed,Standard
+501467,1006,2025-02-03,Morgan Patel,IT,Closed,Standard
+501468,1025,2024-04-26,Taylor Smith,Finance,Open,Standard
+501469,1002,2025-11-26,Casey Brown,Finance,In Transit,Rush
+501470,1001,2024-07-30,Casey Brown,Retail,In Transit,Standard
+501471,1008,2025-09-17,Taylor Smith,Finance,Closed,Rush
+501472,1008,2025-12-26,Jordan Lee,Retail,Open,Standard
+501473,1011,2025-08-11,Alex Chen,Retail,Closed,Standard
+501474,1017,2024-11-29,Casey Brown,Retail,Closed,Rush
+501475,1004,2025-04-16,Jordan Lee,Facilities,Closed,Standard
+501476,1014,2024-11-14,Taylor Smith,Finance,Closed,Standard
+501477,1011,2024-04-28,Morgan Patel,Facilities,Closed,Rush
+501478,1011,2024-09-06,Casey Brown,Facilities,Closed,Standard
+501479,1002,2025-10-10,Casey Brown,IT,In Transit,Standard
+501480,1016,2024-10-02,Morgan Patel,Operations,Open,Standard
+501481,1022,2024-02-25,Morgan Patel,Finance,Open,Standard
+501482,1020,2025-09-05,Jordan Lee,Facilities,In Transit,Standard
+501483,1013,2025-07-15,Jordan Lee,IT,Closed,Standard
+501484,1003,2025-03-26,Taylor Smith,Finance,Open,Standard
+501485,1001,2025-12-10,Alex Chen,Operations,Closed,Standard
+501486,1012,2024-07-07,Alex Chen,Facilities,Open,Standard
+501487,1015,2025-06-03,Taylor Smith,IT,In Transit,Standard
+501488,1012,2025-06-12,Jordan Lee,Retail,Closed,Standard
+501489,1016,2025-06-24,Alex Chen,IT,Open,Standard
+501490,1007,2025-07-08,Jordan Lee,IT,Open,Standard
+501491,1020,2024-12-09,Casey Brown,Retail,In Transit,Rush
+501492,1010,2024-10-07,Alex Chen,IT,In Transit,Standard
+501493,1012,2024-04-27,Casey Brown,IT,In Transit,Rush
+501494,1011,2024-05-20,Alex Chen,Finance,Open,Standard
+501495,1001,2025-03-03,Taylor Smith,Facilities,Closed,Standard
+501496,1006,2024-01-04,Jordan Lee,Retail,In Transit,Standard
+501497,1012,2025-04-02,Morgan Patel,Finance,Open,Standard
+501498,1023,2024-06-25,Morgan Patel,IT,Closed,Standard
+501499,1001,2024-02-29,Morgan Patel,IT,Closed,Standard
+501500,1013,2025-11-29,Alex Chen,Retail,Open,Standard
+501501,1007,2025-04-28,Casey Brown,Operations,Closed,Standard
+501502,1006,2025-10-22,Jordan Lee,Retail,Open,Standard
+501503,1023,2024-05-19,Casey Brown,Retail,Closed,Standard
+501504,1010,2024-11-17,Casey Brown,Finance,In Transit,Standard
+501505,1024,2025-05-09,Casey Brown,Finance,Closed,Standard
+501506,1010,2024-10-07,Taylor Smith,Finance,In Transit,Standard
+501507,1020,2025-07-13,Casey Brown,Facilities,Closed,Standard
+501508,1019,2024-11-23,Jordan Lee,Facilities,Open,Rush
+501509,1018,2025-04-04,Jordan Lee,Operations,Closed,Standard
+501510,1020,2024-03-23,Casey Brown,Retail,Closed,Standard
+501511,1017,2025-12-06,Jordan Lee,Operations,Open,Rush
+501512,1017,2024-06-30,Alex Chen,Retail,Closed,Standard
+501513,1015,2024-08-23,Alex Chen,Facilities,In Transit,Standard
+501514,1008,2025-06-29,Jordan Lee,IT,Closed,Standard
+501515,1011,2025-10-11,Casey Brown,Finance,Closed,Standard
+501516,1012,2024-12-10,Alex Chen,Operations,Closed,Standard
+501517,1024,2025-10-01,Alex Chen,Finance,Closed,Standard
+501518,1010,2025-12-19,Taylor Smith,Operations,Open,Standard
+501519,1015,2024-07-28,Casey Brown,Retail,Open,Standard
+501520,1002,2024-01-06,Taylor Smith,IT,Closed,Standard
+501521,1022,2024-04-03,Casey Brown,Retail,Open,Standard
+501522,1005,2025-09-07,Morgan Patel,Retail,In Transit,Standard
+501523,1013,2025-04-20,Morgan Patel,Finance,Closed,Standard
+501524,1009,2024-10-14,Casey Brown,Finance,Closed,Rush
+501525,1010,2025-12-12,Morgan Patel,Finance,Closed,Standard
+501526,1007,2024-04-07,Morgan Patel,Facilities,Open,Rush
+501527,1012,2025-06-06,Casey Brown,Operations,Open,Standard
+501528,1025,2025-10-01,Taylor Smith,Finance,Open,Rush
+501529,1012,2024-06-12,Morgan Patel,Facilities,In Transit,Standard
+501530,1017,2024-06-09,Jordan Lee,Finance,Open,Standard
+501531,1017,2025-04-28,Jordan Lee,Finance,Closed,Standard
+501532,1019,2024-12-27,Alex Chen,IT,Open,Standard
+501533,1021,2024-12-22,Alex Chen,IT,Open,Standard
+501534,1019,2025-01-20,Casey Brown,IT,Closed,Standard
+501535,1001,2025-03-23,Taylor Smith,Finance,Open,Standard
+501536,1018,2025-07-19,Casey Brown,Finance,In Transit,Rush
+501537,1025,2025-12-18,Jordan Lee,Operations,Open,Standard
+501538,1014,2025-11-25,Morgan Patel,Facilities,Open,Standard
+501539,1004,2024-07-12,Jordan Lee,Finance,Open,Standard
+501540,1005,2025-06-05,Taylor Smith,Facilities,Closed,Standard
+501541,1009,2025-02-01,Jordan Lee,Finance,Closed,Rush
+501542,1007,2025-08-14,Jordan Lee,Retail,Open,Standard
+501543,1007,2025-07-04,Morgan Patel,Retail,In Transit,Standard
+501544,1004,2025-05-12,Alex Chen,Facilities,Closed,Standard
+501545,1025,2024-02-09,Casey Brown,Retail,Closed,Standard
+501546,1007,2025-03-21,Taylor Smith,Retail,In Transit,Standard
+501547,1019,2024-08-21,Jordan Lee,IT,In Transit,Standard
+501548,1004,2025-01-15,Morgan Patel,Finance,Closed,Rush
+501549,1010,2025-12-08,Jordan Lee,Retail,Open,Rush
+501550,1002,2024-04-13,Casey Brown,Finance,Closed,Standard
+501551,1007,2024-09-11,Alex Chen,IT,Open,Standard
+501552,1009,2024-03-29,Morgan Patel,IT,Closed,Standard
+501553,1010,2024-01-01,Morgan Patel,IT,Closed,Standard
+501554,1024,2024-09-05,Morgan Patel,Finance,Closed,Standard
+501555,1004,2024-01-09,Taylor Smith,Operations,In Transit,Standard
+501556,1023,2025-04-08,Morgan Patel,Finance,Closed,Standard
+501557,1012,2024-08-02,Alex Chen,Facilities,Open,Standard
+501558,1021,2025-02-25,Casey Brown,Finance,Open,Standard
+501559,1014,2024-11-15,Alex Chen,Retail,In Transit,Standard
+501560,1022,2025-03-27,Morgan Patel,Retail,In Transit,Standard
+501561,1009,2025-05-02,Jordan Lee,Facilities,Open,Standard
+501562,1022,2024-08-04,Alex Chen,Finance,In Transit,Standard
+501563,1019,2025-04-17,Jordan Lee,Retail,In Transit,Rush
+501564,1003,2024-05-01,Taylor Smith,Operations,Open,Standard
+501565,1009,2024-01-14,Morgan Patel,Finance,In Transit,Standard
+501566,1016,2024-07-16,Jordan Lee,Facilities,Open,Standard
+501567,1021,2025-12-30,Jordan Lee,Facilities,Closed,Standard
+501568,1001,2025-11-03,Taylor Smith,Facilities,Closed,Rush
+501569,1024,2025-03-28,Taylor Smith,Retail,In Transit,Rush
+501570,1011,2024-08-25,Alex Chen,Operations,Closed,Standard
+501571,1003,2025-11-17,Taylor Smith,IT,Closed,Rush
+501572,1018,2024-11-09,Jordan Lee,Operations,Closed,Standard
+501573,1003,2025-10-19,Taylor Smith,IT,Closed,Standard
+501574,1006,2025-12-22,Casey Brown,Retail,Open,Rush
+501575,1004,2025-02-28,Alex Chen,Facilities,In Transit,Rush
+501576,1016,2024-11-03,Morgan Patel,Operations,Open,Standard
+501577,1008,2025-03-21,Morgan Patel,IT,Closed,Standard
+501578,1021,2025-05-06,Morgan Patel,Retail,Open,Rush
+501579,1009,2025-07-23,Alex Chen,Operations,In Transit,Standard
+501580,1015,2025-10-29,Taylor Smith,Finance,Closed,Standard
+501581,1013,2025-03-27,Casey Brown,IT,Open,Rush
+501582,1020,2024-06-05,Casey Brown,Facilities,Closed,Standard
+501583,1009,2024-06-01,Jordan Lee,Retail,Closed,Standard
+501584,1014,2024-01-18,Alex Chen,Retail,Closed,Standard
+501585,1022,2025-03-31,Taylor Smith,Facilities,In Transit,Standard
+501586,1025,2025-12-28,Alex Chen,Operations,Closed,Standard
+501587,1010,2025-02-18,Casey Brown,Operations,In Transit,Standard
+501588,1012,2025-01-19,Jordan Lee,Operations,Open,Standard
+501589,1001,2024-01-17,Jordan Lee,Finance,In Transit,Standard
+501590,1003,2025-10-15,Alex Chen,Finance,In Transit,Standard
+501591,1017,2025-09-10,Alex Chen,IT,Closed,Standard
+501592,1015,2025-03-02,Taylor Smith,Finance,In Transit,Standard
+501593,1002,2024-11-16,Casey Brown,Operations,In Transit,Rush
+501594,1022,2025-07-10,Morgan Patel,Retail,Open,Standard
+501595,1004,2024-02-29,Alex Chen,Operations,Open,Standard
+501596,1023,2025-08-08,Jordan Lee,IT,In Transit,Standard
+501597,1016,2025-11-24,Taylor Smith,Retail,Closed,Rush
+501598,1001,2025-03-23,Taylor Smith,Retail,Open,Standard
+501599,1010,2024-11-29,Casey Brown,Retail,Open,Standard
+501600,1004,2024-03-28,Casey Brown,IT,Open,Standard
+501601,1012,2024-08-22,Alex Chen,Retail,Open,Standard
+501602,1010,2025-05-30,Taylor Smith,Finance,Open,Standard
+501603,1017,2025-02-26,Taylor Smith,Retail,In Transit,Rush
+501604,1014,2024-09-03,Morgan Patel,Retail,Open,Standard
+501605,1005,2024-07-27,Casey Brown,Finance,In Transit,Standard
+501606,1001,2025-07-25,Alex Chen,Finance,Open,Standard
+501607,1009,2025-01-04,Casey Brown,Facilities,Closed,Rush
+501608,1006,2025-04-18,Alex Chen,Operations,Open,Standard
+501609,1016,2024-07-07,Casey Brown,Facilities,In Transit,Rush
+501610,1007,2024-02-14,Morgan Patel,Facilities,Open,Standard
+501611,1012,2024-07-19,Casey Brown,IT,In Transit,Standard
+501612,1022,2025-02-16,Casey Brown,Retail,Open,Standard
+501613,1007,2025-02-09,Morgan Patel,Retail,Closed,Standard
+501614,1018,2024-12-11,Morgan Patel,Operations,Closed,Standard
+501615,1022,2024-09-03,Alex Chen,Retail,In Transit,Rush
+501616,1012,2024-06-25,Taylor Smith,Facilities,Open,Standard
+501617,1010,2024-12-06,Casey Brown,Finance,Open,Standard
+501618,1022,2025-07-12,Jordan Lee,Operations,Closed,Standard
+501619,1019,2024-06-08,Casey Brown,Facilities,Closed,Standard
+501620,1004,2024-12-10,Casey Brown,Finance,Closed,Standard
+501621,1008,2025-07-18,Taylor Smith,IT,Open,Standard
+501622,1009,2024-03-25,Jordan Lee,Operations,Open,Standard
+501623,1008,2025-03-21,Morgan Patel,Operations,Open,Standard
+501624,1021,2025-03-27,Morgan Patel,Operations,Closed,Rush
+501625,1013,2024-08-21,Taylor Smith,Operations,Closed,Standard
+501626,1004,2025-08-30,Morgan Patel,Facilities,In Transit,Rush
+501627,1022,2025-08-18,Casey Brown,Finance,Closed,Standard
+501628,1010,2025-04-04,Jordan Lee,IT,Closed,Standard
+501629,1002,2025-08-10,Alex Chen,Operations,In Transit,Standard
+501630,1023,2025-10-05,Casey Brown,Facilities,In Transit,Standard
+501631,1005,2025-07-16,Morgan Patel,Retail,Closed,Standard
+501632,1009,2025-04-18,Taylor Smith,Finance,Open,Standard
+501633,1003,2024-07-14,Casey Brown,IT,In Transit,Standard
+501634,1014,2025-09-05,Jordan Lee,Retail,Open,Rush
+501635,1011,2025-11-30,Alex Chen,IT,In Transit,Standard
+501636,1004,2025-06-03,Alex Chen,IT,Open,Standard
+501637,1024,2025-12-24,Taylor Smith,IT,In Transit,Standard
+501638,1025,2025-03-16,Casey Brown,Facilities,Open,Standard
+501639,1015,2025-04-17,Casey Brown,Operations,Open,Standard
+501640,1020,2025-12-06,Jordan Lee,Finance,Closed,Rush
+501641,1022,2025-12-01,Jordan Lee,Finance,Closed,Standard
+501642,1016,2024-08-02,Taylor Smith,IT,Closed,Standard
+501643,1016,2025-04-01,Alex Chen,Finance,In Transit,Standard
+501644,1006,2024-02-29,Morgan Patel,Operations,Closed,Rush
+501645,1001,2025-04-08,Alex Chen,Facilities,Open,Standard
+501646,1003,2025-05-31,Morgan Patel,Finance,Closed,Rush
+501647,1019,2024-02-21,Morgan Patel,IT,Closed,Standard
+501648,1021,2024-11-08,Morgan Patel,Facilities,Open,Rush
+501649,1021,2024-02-28,Casey Brown,IT,Closed,Standard
+501650,1020,2024-02-08,Morgan Patel,Finance,Closed,Standard
+501651,1001,2024-12-09,Alex Chen,Operations,Closed,Rush
+501652,1016,2025-03-09,Morgan Patel,Operations,Open,Standard
+501653,1013,2025-08-22,Casey Brown,Operations,Open,Standard
+501654,1021,2025-01-27,Taylor Smith,Retail,Open,Standard
+501655,1016,2024-03-08,Casey Brown,Facilities,In Transit,Standard
+501656,1016,2024-04-16,Alex Chen,Operations,Open,Standard
+501657,1024,2025-05-24,Morgan Patel,Retail,In Transit,Standard
+501658,1004,2024-01-26,Casey Brown,IT,Open,Standard
+501659,1020,2024-02-16,Morgan Patel,Retail,In Transit,Standard
+501660,1022,2024-10-10,Alex Chen,Finance,Open,Standard
+501661,1019,2024-12-25,Morgan Patel,Operations,Open,Standard
+501662,1021,2024-10-30,Casey Brown,Operations,In Transit,Standard
+501663,1010,2024-12-05,Casey Brown,Retail,Closed,Standard
+501664,1019,2025-02-13,Alex Chen,Facilities,Open,Standard
+501665,1021,2025-07-19,Casey Brown,Retail,Closed,Standard
+501666,1010,2025-05-04,Casey Brown,IT,Closed,Standard
+501667,1001,2025-11-13,Jordan Lee,Operations,Open,Standard
+501668,1001,2024-09-07,Jordan Lee,Finance,Open,Standard
+501669,1008,2025-01-25,Casey Brown,IT,In Transit,Standard
+501670,1019,2025-09-21,Jordan Lee,Finance,Closed,Standard
+501671,1017,2025-03-25,Morgan Patel,Finance,Open,Standard
+501672,1006,2025-04-04,Casey Brown,IT,Open,Rush
+501673,1017,2024-01-20,Taylor Smith,Operations,Open,Standard
+501674,1006,2024-05-05,Alex Chen,Retail,Open,Standard
+501675,1024,2025-11-28,Alex Chen,IT,Open,Standard
+501676,1005,2024-03-13,Morgan Patel,IT,Closed,Rush
+501677,1023,2025-07-08,Alex Chen,Operations,In Transit,Standard
+501678,1017,2025-04-15,Jordan Lee,Operations,Open,Rush
+501679,1005,2024-08-09,Taylor Smith,Operations,Closed,Standard
+501680,1009,2024-02-25,Alex Chen,Facilities,Closed,Rush
+501681,1017,2025-10-10,Taylor Smith,Finance,Closed,Standard
+501682,1023,2024-11-17,Morgan Patel,Finance,In Transit,Standard
+501683,1019,2025-11-23,Morgan Patel,IT,Open,Standard
+501684,1018,2025-09-11,Jordan Lee,Retail,Closed,Rush
+501685,1005,2025-01-15,Jordan Lee,Operations,In Transit,Standard
+501686,1004,2025-11-20,Jordan Lee,Operations,Open,Standard
+501687,1011,2024-11-09,Alex Chen,IT,In Transit,Standard
+501688,1015,2025-11-25,Casey Brown,Facilities,Closed,Rush
+501689,1003,2024-04-19,Taylor Smith,Finance,Open,Standard
+501690,1007,2024-06-14,Alex Chen,Operations,Closed,Rush
+501691,1013,2025-11-14,Alex Chen,Finance,Closed,Standard
+501692,1022,2025-04-09,Alex Chen,Facilities,Open,Standard
+501693,1001,2024-04-29,Morgan Patel,Finance,Open,Standard
+501694,1019,2024-09-04,Morgan Patel,IT,In Transit,Standard
+501695,1018,2025-04-09,Taylor Smith,Finance,In Transit,Standard
+501696,1003,2025-01-29,Taylor Smith,IT,Open,Rush
+501697,1024,2024-10-25,Alex Chen,Facilities,Closed,Rush
+501698,1015,2024-11-29,Taylor Smith,Facilities,Closed,Standard
+501699,1013,2024-11-06,Casey Brown,Operations,Closed,Standard
+501700,1003,2025-04-05,Casey Brown,Facilities,Open,Rush
+501701,1016,2024-09-19,Taylor Smith,Operations,Open,Standard
+501702,1017,2024-08-25,Jordan Lee,Facilities,In Transit,Standard
+501703,1001,2024-07-14,Morgan Patel,IT,Open,Standard
+501704,1021,2025-01-20,Alex Chen,Operations,In Transit,Rush
+501705,1022,2025-02-05,Jordan Lee,Facilities,Open,Standard
+501706,1005,2025-06-11,Taylor Smith,Facilities,Open,Standard
+501707,1010,2025-04-24,Casey Brown,Retail,Open,Standard
+501708,1005,2025-09-28,Jordan Lee,Retail,Open,Standard
+501709,1014,2024-01-17,Alex Chen,Retail,Open,Standard
+501710,1012,2025-05-23,Jordan Lee,Operations,Open,Standard
+501711,1014,2025-04-24,Jordan Lee,Operations,In Transit,Standard
+501712,1021,2024-04-01,Jordan Lee,Facilities,Open,Standard
+501713,1014,2024-07-26,Taylor Smith,Facilities,In Transit,Standard
+501714,1014,2025-10-10,Taylor Smith,Operations,Open,Standard
+501715,1003,2024-08-19,Taylor Smith,Operations,In Transit,Standard
+501716,1024,2025-08-20,Morgan Patel,IT,Open,Standard
+501717,1014,2025-08-07,Jordan Lee,Retail,Closed,Standard
+501718,1018,2025-06-03,Morgan Patel,IT,Open,Standard
+501719,1011,2025-01-29,Morgan Patel,Facilities,In Transit,Standard
+501720,1016,2024-02-08,Casey Brown,Finance,In Transit,Rush
+501721,1002,2025-11-08,Jordan Lee,IT,Closed,Standard
+501722,1003,2024-11-01,Jordan Lee,Facilities,Closed,Standard
+501723,1015,2024-11-01,Casey Brown,Retail,Open,Rush
+501724,1002,2024-03-19,Alex Chen,Finance,Closed,Standard
+501725,1003,2025-12-06,Morgan Patel,Retail,Closed,Standard
+501726,1012,2024-11-05,Alex Chen,Retail,Closed,Standard
+501727,1021,2024-11-28,Morgan Patel,Operations,Closed,Standard
+501728,1003,2024-02-14,Morgan Patel,Operations,Open,Standard
+501729,1021,2025-02-16,Taylor Smith,Facilities,Open,Standard
+501730,1009,2024-08-26,Jordan Lee,Finance,Open,Standard
+501731,1025,2024-06-12,Morgan Patel,IT,In Transit,Standard
+501732,1020,2024-05-17,Morgan Patel,Operations,In Transit,Standard
+501733,1010,2024-07-14,Taylor Smith,IT,In Transit,Standard
+501734,1008,2025-06-29,Alex Chen,IT,In Transit,Standard
+501735,1008,2025-01-28,Casey Brown,Operations,Open,Standard
+501736,1015,2024-01-10,Morgan Patel,IT,In Transit,Standard
+501737,1016,2024-11-04,Jordan Lee,Finance,In Transit,Standard
+501738,1007,2024-11-01,Taylor Smith,Facilities,In Transit,Standard
+501739,1012,2025-08-09,Morgan Patel,Operations,Closed,Standard
+501740,1025,2025-08-12,Alex Chen,Retail,In Transit,Standard
+501741,1013,2025-12-10,Taylor Smith,Finance,Open,Standard
+501742,1021,2025-03-21,Casey Brown,Finance,In Transit,Standard
+501743,1002,2025-05-16,Morgan Patel,IT,Closed,Rush
+501744,1025,2025-04-28,Alex Chen,IT,In Transit,Standard
+501745,1022,2024-10-26,Jordan Lee,Facilities,In Transit,Standard
+501746,1022,2025-10-01,Jordan Lee,Retail,Open,Standard
+501747,1020,2025-05-18,Jordan Lee,Finance,In Transit,Rush
+501748,1013,2024-11-14,Taylor Smith,Operations,Closed,Standard
+501749,1012,2024-10-30,Jordan Lee,Finance,In Transit,Standard
+501750,1014,2024-06-26,Taylor Smith,IT,Closed,Standard
+501751,1005,2025-08-26,Alex Chen,IT,Open,Rush
+501752,1014,2025-06-11,Taylor Smith,Facilities,In Transit,Standard
+501753,1025,2024-10-17,Casey Brown,IT,Open,Standard
+501754,1024,2025-11-05,Alex Chen,IT,Closed,Standard
+501755,1011,2024-08-22,Jordan Lee,IT,Open,Standard
+501756,1001,2024-12-16,Taylor Smith,Operations,Open,Standard
+501757,1009,2025-06-09,Jordan Lee,IT,Closed,Standard
+501758,1021,2024-04-29,Taylor Smith,Operations,Open,Standard
+501759,1006,2025-06-04,Morgan Patel,Operations,Open,Standard
+501760,1015,2025-08-15,Morgan Patel,IT,Open,Standard
+501761,1017,2025-06-22,Alex Chen,Facilities,Open,Standard
+501762,1009,2025-09-29,Casey Brown,Facilities,Closed,Standard
+501763,1011,2025-05-25,Jordan Lee,IT,Closed,Standard
+501764,1023,2025-09-14,Alex Chen,Finance,Closed,Standard
+501765,1002,2024-09-09,Jordan Lee,Retail,In Transit,Standard
+501766,1005,2024-08-31,Casey Brown,Facilities,In Transit,Rush
+501767,1016,2024-12-24,Taylor Smith,Operations,In Transit,Standard
+501768,1022,2024-07-15,Jordan Lee,Retail,Open,Standard
+501769,1007,2025-05-02,Alex Chen,IT,In Transit,Standard
+501770,1003,2024-02-12,Taylor Smith,Operations,Open,Standard
+501771,1005,2025-05-12,Casey Brown,Finance,In Transit,Standard
+501772,1004,2025-10-08,Casey Brown,Finance,In Transit,Standard
+501773,1005,2025-01-20,Taylor Smith,Retail,Closed,Standard
+501774,1016,2024-12-08,Alex Chen,IT,Open,Standard
+501775,1007,2025-02-11,Taylor Smith,Facilities,Closed,Standard
+501776,1007,2025-05-15,Jordan Lee,Retail,In Transit,Standard
+501777,1023,2024-04-30,Morgan Patel,Finance,In Transit,Rush
+501778,1025,2025-09-07,Alex Chen,Finance,Open,Standard
+501779,1007,2024-04-14,Casey Brown,IT,In Transit,Standard
+501780,1022,2025-01-05,Alex Chen,Operations,Open,Standard
+501781,1002,2025-07-07,Taylor Smith,Facilities,In Transit,Standard
+501782,1016,2025-04-18,Taylor Smith,IT,Open,Standard
+501783,1001,2025-07-12,Jordan Lee,Finance,Open,Standard
+501784,1007,2024-03-22,Taylor Smith,Retail,In Transit,Standard
+501785,1007,2025-03-11,Alex Chen,Operations,In Transit,Standard
+501786,1023,2025-06-25,Alex Chen,Finance,In Transit,Rush
+501787,1017,2024-01-17,Morgan Patel,Retail,Open,Standard
+501788,1009,2025-11-07,Taylor Smith,Facilities,Closed,Standard
+501789,1009,2025-08-02,Casey Brown,IT,Closed,Standard
+501790,1015,2024-05-19,Jordan Lee,Finance,In Transit,Standard
+501791,1005,2024-09-05,Alex Chen,Retail,In Transit,Standard
+501792,1005,2024-10-03,Morgan Patel,IT,Open,Standard
+501793,1014,2024-01-04,Morgan Patel,Operations,In Transit,Standard
+501794,1004,2025-06-02,Morgan Patel,Operations,In Transit,Standard
+501795,1023,2025-02-18,Jordan Lee,Facilities,Open,Standard
+501796,1005,2024-06-28,Casey Brown,Finance,Open,Standard
+501797,1014,2025-05-30,Taylor Smith,Operations,Open,Rush
+501798,1004,2024-09-01,Morgan Patel,IT,In Transit,Standard
+501799,1004,2025-08-06,Casey Brown,Retail,In Transit,Standard
+501800,1017,2024-07-06,Jordan Lee,Operations,Closed,Standard

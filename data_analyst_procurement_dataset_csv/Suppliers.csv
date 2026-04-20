@@ -1,0 +1,26 @@
+SupplierID,SupplierName,Region,Category,Rating
+1001,Summit Industries,US,Raw Materials,A
+1002,Nova Supply,APAC,IT,B
+1003,Vertex Logistics,Canada,IT,B
+1004,Vertex Global,APAC,Office,B
+1005,Pioneer Logistics,APAC,Packaging,B
+1006,Pioneer Partners,APAC,Maintenance,A
+1007,Pioneer Partners,Canada,Raw Materials,A
+1008,Ever Supply,APAC,IT,B
+1009,Ever Partners,APAC,Components,A
+1010,Pioneer Supply,US,Components,B
+1011,Nova Logistics,APAC,Maintenance,B
+1012,Summit Supply,Canada,IT,A
+1013,North Supply,APAC,Maintenance,B
+1014,Pioneer Solutions,Europe,Maintenance,C
+1015,North Global,Canada,Raw Materials,A
+1016,Pioneer Global,Canada,Maintenance,B
+1017,Nova Global,Canada,IT,C
+1018,Vertex Industries,Canada,IT,A
+1019,Atlas Logistics,Canada,Packaging,A
+1020,Ever Partners,APAC,Maintenance,B
+1021,Ever Supply,APAC,IT,A
+1022,Pioneer Solutions,Europe,Packaging,A
+1023,Atlas Global,APAC,Office,C
+1024,North Supply,Europe,Office,A
+1025,North Solutions,Europe,IT,A
