@@ -43,7 +43,7 @@ A simulated purchasing command center designed for leadership teams to monitor p
 
 Created a realistic enterprise procurement dataset containing:
 
-- 50+ suppliers  
+- 25+ suppliers  
 - Thousands of purchase orders  
 - Delivery timelines  
 - Cost variance data  
