@@ -86,6 +86,59 @@ Upcoming work includes:
 
 ---
 
+---
+
+# Stage Two: Python Foundations for Data Science
+
+## Objective
+
+Build core Python programming skills needed to work with data, libraries, and eventually machine learning models. All practice was done hands-on in Jupyter Notebook.
+
+---
+
+## Course / Practice Notebook
+
+**Python Learner – Personal Practice Notebook**  
+Self-directed Python study using Jupyter Notebook focused on data science fundamentals.
+Used Youtube video - Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib) (https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=44065s)
+
+
+---
+
+## Topics Covered
+
+### Core Python
+- Variables, data types, and dynamic typing
+- Arithmetic operators (`+`, `-`, `*`, `/`, `//`, `**`, `%`)
+- Comparison and boolean operators
+- Control flow: loops and conditionals
+- Functions: return values, default arguments, `*args`, variable input arguments
+- Modules and imports
+
+### Data Structures
+- Lists (indexing, reversing, list comprehension)
+- Tuples
+- Sets
+- Dictionaries (key-value pairs)
+
+### Libraries
+- **NumPy** – arrays, dimensions, array operations, single conditions
+- **Pandas** – DataFrames, data manipulation
+
+---
+
+## Next Stage
+
+### Stage Three: Scikit-Learn + Machine Learning
+Upcoming work includes:
+- Supervised learning: classification and regression
+- Predicting late purchase orders from procurement data
+- Model evaluation and cross-validation
+- Feature engineering with Pandas + NumPy
+
+---
+
 ## Repository Purpose
 
 To publicly track my progression from analytics foundations to production-ready machine learning projects.
+
