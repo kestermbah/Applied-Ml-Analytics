@@ -289,7 +289,7 @@ Planned topics include:
 - Then compare from-scratch implementations to Scikit-Learn equivalents
 - Apply each algorithm to the procurement dataset where relevant
 
----
+----
 
 ## Repository Purpose
 
