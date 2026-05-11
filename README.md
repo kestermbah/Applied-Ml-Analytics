@@ -138,7 +138,159 @@ Upcoming work includes:
 
 ---
 
+---
+
+# Stage Three: Machine Learning with Scikit-Learn
+
+## Objective
+
+Apply Python and Pandas skills to a real supervised machine learning problem: predicting whether a purchase order line will be delivered late. This stage focused on the full ML pipeline from raw data to model evaluation.
+
+---
+
+## Project: Delivery Risk Model
+
+A binary classification model that predicts whether an order line will arrive late, built on a simulated enterprise procurement dataset.
+
+Two notebooks are included:
+- `order_predict_model.ipynb` — the working/exploratory notebook showing the full trial-and-error process
+- `delivery_risk_model.ipynb` — the cleaned, polished version with the final pipeline
+
+---
+
+## Dataset
+
+Two CSV files were merged to form the modeling dataset:
+
+| File | Key Columns |
+|---|---|
+| `OrderItems.csv` | OrderID, LineID, ItemCode, ItemCategory, Quantity, UnitPrice, RequestedDate, LineAmount |
+| `Deliveries.csv` | OrderID, LineID, DeliveryDate, QtyDelivered, DeliveryStatus |
+
+The two files were joined on `OrderID` and `LineID`, and `DeliveryStatus` was encoded into a binary target variable: `is_late` (1 = Late, 0 = On Time).
+
+---
+
+## ML Pipeline
+
+### 1. Data Merging
+```python
+df = orders.merge(deliveries[["OrderID", "LineID", "DeliveryStatus"]],
+                  on=["OrderID", "LineID"], how="left")
+```
+
+### 2. Target Encoding
+```python
+df["is_late"] = (df["DeliveryStatus"] == "Late").astype(int)
+```
+
+### 3. Feature Engineering
+
+| Column | Treatment |
+|---|---|
+| `OrderID`, `LineID`, `ItemCode` | Dropped — IDs with no predictive value |
+| `DeliveryStatus` | Dropped — source of the target, would cause data leakage |
+| `ItemCategory` | Encoded with `pd.get_dummies()` |
+| `RequestedDate` | Decomposed into `Month`, `DayOfWeek`, `Year` |
+| `Quantity`, `UnitPrice`, `LineAmount` | Used as-is |
+
+### 4. Train/Test Split
+```python
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+```
+
+### 5. Model
+```python
+model = RandomForestClassifier(n_estimators=100, random_state=42)
+model.fit(X_train, y_train)
+```
+
+Random Forest was chosen because it handles mixed data types well, requires minimal tuning, and does not require feature scaling.
+
+---
+
+## Feature Importance Results
+
+| Feature | Importance | Insight |
+|---|---|---|
+| `LineAmount` | 23% | High value orders are the strongest signal |
+| `Quantity` | 22% | Order size is nearly as important |
+| `UnitPrice` | 21% | Unit price correlates with complexity |
+| `Month` | 12% | Seasonality affects delivery performance |
+| `DayOfWeek` | 10% | Day of week has moderate influence |
+| `Year` | 4% | Minimal impact |
+| `ItemCategory_*` | ~1–2% each | Category type barely affects lateness |
+
+**Key insight:** Large, expensive, high-quantity orders are most likely to run late — a directly actionable finding for procurement teams.
+
+---
+
+## Model Performance
+
+```
+              precision    recall  f1-score   support
+
+           0       0.46      0.46      0.46       407
+           1       0.55      0.55      0.55       493
+
+    accuracy                           0.51       900
+```
+
+The model achieved 51% accuracy — essentially random. This was expected given the dataset was synthetically generated without real business logic driving the `DeliveryStatus` values. The pipeline is correct and validated; performance would improve significantly on real procurement data with genuine delivery patterns.
+
+---
+
+## Core Skills Learned
+
+- Merging DataFrames with `pd.merge()` using composite keys
+- Creating binary target variables from categorical columns
+- Identifying and removing data leakage sources
+- Encoding categorical variables with `pd.get_dummies()`
+- Decomposing datetime features for ML
+- Splitting data with `train_test_split`
+- Training and evaluating a `RandomForestClassifier`
+- Interpreting `classification_report` metrics (precision, recall, F1)
+- Analyzing feature importances to extract business insights
+
+---
+
+## Tools Used
+
+- Python
+- Pandas
+- Scikit-Learn
+- Jupyter Notebook
+
+---
+
+## Next Stage
+
+### Stage Four: Mathematics and Algorithmic Foundations of Machine Learning
+
+Before advancing to more complex models, the next stage focuses on building a deep understanding of the math and algorithms that underpin machine learning.
+
+Planned topics include:
+
+**Mathematics**
+- Linear algebra — vectors, matrices, dot products, matrix multiplication
+- Calculus — derivatives, gradients, and the chain rule as they apply to model optimization
+- Statistics and probability — distributions, Bayes' theorem, expected value, variance
+- Gradient descent — how models actually learn by minimizing a loss function
+
+**Prerequisite Algorithms**
+- Linear regression — understanding the simplest predictive model from scratch
+- Logistic regression — the math behind binary classification and the sigmoid function
+- Decision trees — how splits are chosen using entropy and information gain
+- K-Nearest Neighbors — distance metrics and why feature scaling matters
+- Naive Bayes — probabilistic classification using Bayes' theorem
+
+**Approach**
+- Implement algorithms from scratch in Python (without Scikit-Learn) to understand what is happening under the hood
+- Then compare from-scratch implementations to Scikit-Learn equivalents
+- Apply each algorithm to the procurement dataset where relevant
+
+---
+
 ## Repository Purpose
 
 To publicly track my progression from analytics foundations to production-ready machine learning projects.
-
